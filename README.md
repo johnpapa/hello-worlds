@@ -4,6 +4,7 @@ Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
 
 Assumptions:
 
+1. Most minimal and reasonable version of the app
 1. Simplest form of the app, using the tool's CLI (if one exists for it)
 1. Remove any "extras" (link links to docs)
 1. Must include steps to build for production in this README.md file
