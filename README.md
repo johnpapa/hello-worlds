@@ -13,18 +13,12 @@ Assumptions:
 
 ## Angular
 
-Created with `@angular/cli`
+Created with the Angular CLI
+
+Build it
 
 ```bash
-ng new hello
-# choose no routing
-# choose css
-```
-
-Build for production using these commands:
-
-```bash
-cd hello
+cd angular
 npm install
 npm run build -- --prod
 ```
@@ -35,14 +29,10 @@ Instructions to [run the app in dev mode](https://github.com/johnpapa/hello-worl
 
 Created with `create-react-app`
 
-```bash
-create-react-app hello
-```
-
-Build for production using these commands:
+Build it
 
 ```bash
-cd hello
+cd react
 npm install
 npm run build
 ```
@@ -53,38 +43,25 @@ Instructions to [run the app in dev mode](https://github.com/johnpapa/hello-worl
 
 Created with `@vue/cli`
 
-```bash
-vue create hello
-# choose "defaults" from the prompt
-```
-
-Build for production using these commands:
+Build it
 
 ```bash
-cd hello
+cd vue
 npm install
 npm run build
 ```
-
-Instructions to [run the app in dev mode](https://github.com/johnpapa/hello-worlds/tree/master/vue/hello)
 
 ## Svelte
 
 Created with `sveltejs/template my-svelte-project`
 
-```bash
-npx degit sveltejs/template my-svelte-project
-```
-
-Build for production using these commands:
+Build it
 
 ```bash
-cd hello
+cd svelte
 npm install
 npm run build
 ```
-
-Instructions to [run the app in dev mode](https://github.com/johnpapa/hello-worlds/tree/master/svelte/hello)
 
 ## Resources
 
