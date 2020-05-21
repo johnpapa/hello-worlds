@@ -84,6 +84,24 @@ npm run build
 
 Instructions to [run the app in dev mode](https://github.com/johnpapa/hello-worlds/tree/master/svelte/hello)
 
+## Gatsby
+
+Created with `gatsby-cli` version 2.12.31 and commands
+
+```bash
+gatsby new
+# set name to gatsby-app
+# choose gatsby-starter-hello-world
+```
+
+Build for production using these commands:
+
+```bash
+cd gatsby-app
+npm install
+npm run build
+```
+
 ## Resources
 
 - [VS Code](https://code.visualstudio.com?wt.mc_id=helloworlds-github-jopapa)
