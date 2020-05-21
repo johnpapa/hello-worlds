@@ -5,11 +5,18 @@ Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
 Assumptions:
 
 1. Simplest form of the app, using the tool's CLI (if one exists for it)
-1. Build for production
+1. Must include instructins to build for production in this README.md file
 1. Use latest versions of each tool
 1. Remove any "extras" (link links to docs)
 1. Must say "hello world"
 1. See existing samples for the idea ...
+
+## Projects
+
+1. [Angular](#Angular)
+1. [React](#React)
+1. [Svelte](#Svelte)
+1. [Vue](#Vue)
 
 ## Angular
 
@@ -39,18 +46,6 @@ npm run build
 
 Instructions to [run the app in dev mode](https://github.com/johnpapa/hello-worlds/tree/master/react/hello)
 
-## Vue
-
-Created with `@vue/cli`
-
-Build it
-
-```bash
-cd vue
-npm install
-npm run build
-```
-
 ## Svelte
 
 Created with `sveltejs/template my-svelte-project`
@@ -59,6 +54,18 @@ Build it
 
 ```bash
 cd svelte
+npm install
+npm run build
+```
+
+## Vue
+
+Created with `@vue/cli`
+
+Build it
+
+```bash
+cd vue
 npm install
 npm run build
 ```
