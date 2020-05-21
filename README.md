@@ -1,28 +1,32 @@
 # hello-worlds
 
-Hello World apps for angular, react, svelte, and vue.
+Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
 
 Assumptions:
 
-1. What would a new user do?
-1. Simplest CLI commands are used (no flags, let the CLI do its default thing)
-1. Build for production
+1. Most minimal and reasonable version of the app
+1. Simplest form of the app, using the tool's CLI (if one exists for it)
+1. Remove any "extras" (link links to docs)
+1. Must include steps to build for production in this README.md file
 1. Use latest versions of each tool
+1. Must say "hello world"
+1. See existing samples for the idea ...
+
+## Projects
+
+1. [Angular](#Angular)
+1. [React](#React)
+1. [Svelte](#Svelte)
+1. [Vue](#Vue)
 
 ## Angular
 
-Created with `@angular/cli` version 9.0.3, and commands
+Created with the Angular CLI
+
+Build it
 
 ```bash
-ng new hello
-# choose no routing
-# choose css
-```
-
-Build for production using these commands:
-
-```bash
-cd hello
+cd angular
 npm install
 npm run build -- --prod
 ```
@@ -31,53 +35,38 @@ Instructions to [run the app in dev mode](https://github.com/johnpapa/hello-worl
 
 ## React
 
-Created with `create-react-ap` version 3.4.0, and commands
+Created with `create-react-app`
+
+Build it
 
 ```bash
-create-react-app hello
-```
-
-Build for production using these commands:
-
-```bash
-cd hello
+cd react
 npm install
 npm run build
 ```
 
 Instructions to [run the app in dev mode](https://github.com/johnpapa/hello-worlds/tree/master/react/hello)
 
-## Vue
+## Svelte
 
-Created with `@vue/cli` version 4.2.2, and commands
+Created with `sveltejs/template my-svelte-project`
 
-```bash
-vue create hello
-# choose "defaults" from the prompt
-```
-
-Build for production using these commands:
+Build it
 
 ```bash
-cd hello
+cd svelte
 npm install
 npm run build
 ```
 
-Instructions to [run the app in dev mode](https://github.com/johnpapa/hello-worlds/tree/master/vue/hello)
+## Vue
 
-## Svelte
+Created with `@vue/cli`
 
-Created with `sveltejs/template my-svelte-project`, and commands
-
-```bash
-npx degit sveltejs/template my-svelte-project
-```
-
-Build for production using these commands:
+Build it
 
 ```bash
-cd hello
+cd vue
 npm install
 npm run build
 ```
