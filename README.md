@@ -1,17 +1,19 @@
 # hello-worlds
 
-Hello World apps for angular, react, svelte, and vue.
+Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
 
 Assumptions:
 
-1. What would a new user do?
-1. Simplest CLI commands are used (no flags, let the CLI do its default thing)
+1. Simplest form of the app, using the tool's CLI (if one exists for it)
 1. Build for production
 1. Use latest versions of each tool
+1. Remove any "extras" (link links to docs)
+1. Must say "hello world"
+1. See existing samples for the idea ...
 
 ## Angular
 
-Created with `@angular/cli` version 9.0.3, and commands
+Created with `@angular/cli`
 
 ```bash
 ng new hello
@@ -31,7 +33,7 @@ Instructions to [run the app in dev mode](https://github.com/johnpapa/hello-worl
 
 ## React
 
-Created with `create-react-ap` version 3.4.0, and commands
+Created with `create-react-app`
 
 ```bash
 create-react-app hello
@@ -49,7 +51,7 @@ Instructions to [run the app in dev mode](https://github.com/johnpapa/hello-worl
 
 ## Vue
 
-Created with `@vue/cli` version 4.2.2, and commands
+Created with `@vue/cli`
 
 ```bash
 vue create hello
@@ -68,7 +70,7 @@ Instructions to [run the app in dev mode](https://github.com/johnpapa/hello-worl
 
 ## Svelte
 
-Created with `sveltejs/template my-svelte-project`, and commands
+Created with `sveltejs/template my-svelte-project`
 
 ```bash
 npx degit sveltejs/template my-svelte-project
