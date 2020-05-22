@@ -36,6 +36,7 @@ Projects are listed alphabetically
 | React      | `cd react && npm install && npm run build`              | `build`           |
 | Svelte     | `cd svelte && npm install && npm run build`             | `public`          |
 | Vue        | `cd vue && npm install && npm run build`                | `dist`            |
+| Hugo       | `cd hugo && npm install && npm run build`               | `public`          |
 
 ## Resources
 
