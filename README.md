@@ -1,7 +1,9 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -49,6 +51,22 @@ npm install
 npm run build
 ```
 
+## Html
+
+No build required
+
+## Next.js
+
+Created with `create next-app`
+
+Build it
+
+````bash
+cd nextjs
+npm install
+npm run build
+
+
 ## React
 
 Created with `create-react-app`
@@ -59,7 +77,7 @@ Build it
 cd react
 npm install
 npm run build
-```
+````
 
 ## Svelte
 
@@ -81,18 +99,6 @@ Build it
 
 ```bash
 cd vue
-npm install
-npm run build
-```
-
-## Next.js
-
-Created with `create next-app`
-
-Build it
-
-```bash
-cd nextjs
 npm install
 npm run build
 ```
@@ -125,6 +131,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
