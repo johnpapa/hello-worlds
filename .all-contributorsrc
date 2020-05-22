@@ -1,0 +1,69 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "johnpapa",
+      "name": "John Papa",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1202528?v=4",
+      "profile": "http://johnpapa.net",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "laurieontech",
+      "name": "LB",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/15000607?v=4",
+      "profile": "https://github.com/laurieontech",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "simeon4real",
+      "name": "Simeon Udoh",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25581792?v=4",
+      "profile": "https://simicode.me",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ksivamuthu",
+      "name": "Sivamuthu Kumar",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4029525?v=4",
+      "profile": "https://twitter.com/ksivamuthu",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "matiaskm",
+      "name": "Matias Kohan",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/18614906?v=4",
+      "profile": "https://github.com/matiaskm",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Duraimurugan",
+      "name": "Duraimurugan",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7348388?v=4",
+      "profile": "https://github.com/Duraimurugan",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "hello-worlds",
+  "projectOwner": "johnpapa",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
