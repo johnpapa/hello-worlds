@@ -20,7 +20,10 @@ Assumptions:
 - [ ] must work by running `npm install` and `npm start` (or equivalent)
 - [ ] must be in the folder named `<tech-name>`
 - [ ] add yourself using the all-contributors bot `@allcontributors please add @<your-github-account> for code`
-- [ ] add build steps and which folder to serve in the README.md, Serve the `public` folder
+- [ ] add build steps and which folder to serve in the README.md
+- [ ] verify that the app once built can be served from whatever folder the built assets are placed in
+- [ ] verify that a Pull Request doesnt already exist. If it does, feel free to contribue to it.
+
 
 See existing samples for the idea ...
 
