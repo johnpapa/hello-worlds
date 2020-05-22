@@ -1,5 +1,11 @@
 # hello-worlds
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-blue.svg?style=flat-square)](#contributors)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
 
 Assumptions:
@@ -57,3 +63,34 @@ Projects are listed alphabetically
 - [Routes](https://docs.microsoft.com/azure/static-web-apps/routes?wt.mc_id=hello_worlds-github-jopapa)
 - [Review pre-production environments](https://docs.microsoft.com/azure/static-web-apps/review-publish-pull-requests?wt.mc_id=hello_worlds-github-jopapa)
 
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://johnpapa.net"><img src="https://avatars2.githubusercontent.com/u/1202528?v=4" width="100px;" alt=""/><br /><sub><b>John Papa</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=johnpapa" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/laurieontech"><img src="https://avatars3.githubusercontent.com/u/15000607?v=4" width="100px;" alt=""/><br /><sub><b>LB</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=laurieontech" title="Code">💻</a></td>
+    <td align="center"><a href="https://simicode.me"><img src="https://avatars1.githubusercontent.com/u/25581792?v=4" width="100px;" alt=""/><br /><sub><b>Simeon Udoh</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=simeon4real" title="Code">💻</a></td>
+    <td align="center"><a href="https://twitter.com/ksivamuthu"><img src="https://avatars0.githubusercontent.com/u/4029525?v=4" width="100px;" alt=""/><br /><sub><b>Sivamuthu Kumar</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=ksivamuthu" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/matiaskm"><img src="https://avatars3.githubusercontent.com/u/18614906?v=4" width="100px;" alt=""/><br /><sub><b>Matias Kohan</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=matiaskm" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Duraimurugan"><img src="https://avatars3.githubusercontent.com/u/7348388?v=4" width="100px;" alt=""/><br /><sub><b>Duraimurugan</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=Duraimurugan" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/sandydoo"><img src="https://avatars3.githubusercontent.com/u/7572407?v=4" width="100px;" alt=""/><br /><sub><b>Sander Melnikov</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=sandydoo" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://wassim.dev"><img src="https://avatars2.githubusercontent.com/u/1699357?v=4" width="100px;" alt=""/><br /><sub><b>Wassim Chegham</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=manekinekko" title="Code">💻</a></td>
+    <td align="center"><a href="https://angularhive.com"><img src="https://avatars0.githubusercontent.com/u/29446574?v=4" width="100px;" alt=""/><br /><sub><b>Udhayakumar Govindarajan</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=askudhay" title="Code">💻</a></td>
+    <td align="center"><a href="https://behance.net/afifalfiano"><img src="https://avatars1.githubusercontent.com/u/47497276?v=4" width="100px;" alt=""/><br /><sub><b>Afif Alfiano</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=afifalfiano" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
