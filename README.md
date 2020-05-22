@@ -1,7 +1,9 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -23,6 +25,7 @@ Assumptions:
 1. [Aurelia](#Aurelia)
 1. [Gatsby](#Gatsby)
 1. [HTML](#HTML)
+1. [JavaScript](#JavaScript)
 1. [Next.js](#Nextjs)
 1. [React](#React)
 1. [Svelte](#Svelte)
@@ -71,6 +74,12 @@ npm run build
 Serve the `public` folder
 
 ## Html
+
+No build required
+
+Serve the `/` folder
+
+## JavaScript
 
 No build required
 
@@ -157,6 +166,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
