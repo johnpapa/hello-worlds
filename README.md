@@ -1,7 +1,9 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -19,7 +21,7 @@ Assumptions:
 ## Projects
 
 1. [Angular](#Angular)
-1. [Aurelia] (#Aurelia)
+1. [Aurelia](#Aurelia)
 1. [Gatsby](#Gatsby)
 1. [HTML](#HTML)
 1. [React](#React)
@@ -51,6 +53,8 @@ cd aurelia
 npm install
 npm run build
 ```
+
+Serve the `dist` folder
 
 ## Gatsby
 
@@ -143,6 +147,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
