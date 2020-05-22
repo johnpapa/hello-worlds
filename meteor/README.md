@@ -20,9 +20,6 @@ https://stackoverflow.com/questions/60333092/meteor-update-isopacket-giving-comb
 ## Run
 If you want to run meteor project run the simply command *npm run start* or *meteor run*
 
-## Testing
-If you want to test your application you can run *npm run test*
-
 ## Build
 To bundle this project you can use run *meteor build --directory <yourpath>*
 
