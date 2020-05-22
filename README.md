@@ -86,6 +86,10 @@ npm install
 npm run build
 ```
 
+## Html
+
+No build requiredc
+
 ## Resources
 
 - [VS Code](https://code.visualstudio.com?wt.mc_id=helloworlds-github-jopapa)
