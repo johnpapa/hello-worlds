@@ -27,6 +27,7 @@ Projects are listed alphabetically
 
 | Project    | Build steps                                             | Serve this folder |
 | ---------- | ------------------------------------------------------- | ----------------- |
+| Alpine.js  |                                                         | `/`               |      
 | Angular    | `cd angular && npm install && npm run build -- --prod1` | `dist/hello`      |
 | Aurelia    | `cd aurelia && npm install && npm run build`            | `dist`            |
 | Gatsby     | `cd gatsby && npm install && npm run build`             | `public`          |
