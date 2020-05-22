@@ -22,6 +22,7 @@ Assumptions:
 
 1. [Angular](#Angular)
 1. [Gatsby](#Gatsby)
+1. [Polymer](#Polymer)
 1. [React](#React)
 1. [Svelte](#Svelte)
 1. [Vue](#Vue)
@@ -48,6 +49,18 @@ Build it
 cd gatsby
 npm install
 npm run build
+```
+
+## Polymer
+
+Created with `polymer-cli`
+
+Build it
+
+```bash
+cd polymer-app
+npm install
+polymer build
 ```
 
 ## React
