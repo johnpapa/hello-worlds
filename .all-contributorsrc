@@ -6,6 +6,15 @@
   "commit": false,
   "contributors": [
     {
+      "login": "johnpapa",
+      "name": "John Papa",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1202528?v=4",
+      "profile": "http://johnpapa.net",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
       "login": "laurieontech",
       "name": "LB",
       "avatar_url": "https://avatars3.githubusercontent.com/u/15000607?v=4",
