@@ -18,6 +18,7 @@ Assumptions:
 1. [React](#React)
 1. [Svelte](#Svelte)
 1. [Vue](#Vue)
+1. [Gridsome](#Gridsome)
 
 ## Angular
 
@@ -67,6 +68,18 @@ Build it
 
 ```bash
 cd vue
+npm install
+npm run build
+```
+
+## Gridsome
+
+Created with `@gridsome/cli`
+
+Build it
+
+```bash
+cd gridsome
 npm install
 npm run build
 ```
