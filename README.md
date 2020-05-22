@@ -40,6 +40,7 @@ Projects are listed alphabetically
 | Gridsome   | `npm run build`                              | `dist`            | gridsome   |
 | Html       |                                              | `/`               | html       |
 | Hugo       | `npm run build`                              | `public`          | hugo       |
+| Hyperapp   | (uses CDN)                                   | `/`               | hyperapp   |
 | JavaScript |                                              | `/`               | javascript |
 | jQuery     | (uses CDN)                                   | `/`               | jquery     |
 | KnockoutJS | `npm run build`                              | `dist`            | knockoutjs |
