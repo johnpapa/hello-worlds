@@ -22,6 +22,7 @@ Assumptions:
 
 1. [Angular](#Angular)
 1. [Gatsby](#Gatsby)
+1. [HTML](#HTML)
 1. [React](#React)
 1. [Svelte](#Svelte)
 1. [Vue](#Vue)
@@ -38,6 +39,8 @@ npm install
 npm run build -- --prod
 ```
 
+Serve the `dist/hello` folder
+
 ## Gatsby
 
 Created with `gatsby-cli`
@@ -49,6 +52,14 @@ cd gatsby
 npm install
 npm run build
 ```
+
+Serve the `public` folder
+
+## Html
+
+No build required
+
+Serve the `/` folder
 
 ## React
 
@@ -62,6 +73,8 @@ npm install
 npm run build
 ```
 
+Serve the `build` folder
+
 ## Svelte
 
 Created with `sveltejs/template my-svelte-project`
@@ -73,6 +86,8 @@ cd svelte
 npm install
 npm run build
 ```
+
+Serve the `public` folder
 
 ## Vue
 
@@ -86,9 +101,7 @@ npm install
 npm run build
 ```
 
-## Html
-
-No build requiredc
+Serve the `dist` folder
 
 ## Resources
 
