@@ -86,6 +86,18 @@ npm install
 npm run build
 ```
 
+## Html
+
+Created with `npm cli`
+
+Build it
+
+```bash
+cd html
+npm install
+npm run build
+```
+
 ## Resources
 
 - [VS Code](https://code.visualstudio.com?wt.mc_id=helloworlds-github-jopapa)
