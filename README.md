@@ -34,6 +34,7 @@ Projects are listed alphabetically
 | JavaScript |                                                         | `/`               |
 | Next.js    | `cd nextjs && npm install && npm run build`             | `out`             |
 | React      | `cd react && npm install && npm run build`              | `build`           |
+| ThreeJS    | `cd threejs`                                            | `/`               |
 | Svelte     | `cd svelte && npm install && npm run build`             | `public`          |
 | Vue        | `cd vue && npm install && npm run build`                | `dist`            |
 
