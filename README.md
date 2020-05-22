@@ -28,6 +28,7 @@ Projects are listed alphabetically
 | Project    | Build steps                                             | Serve this folder |
 | ---------- | ------------------------------------------------------- | ----------------- |
 | Angular    | `cd angular && npm install && npm run build -- --prod1` | `dist/hello`      |
+| Angular Universal    | `cd angular-universal && npm install && npm run prerender` | `dist/hello/browser`      |
 | Aurelia    | `cd aurelia && npm install && npm run build`            | `dist`            |
 | Gatsby     | `cd gatsby && npm install && npm run build`             | `public`          |
 | Html       |                                                         | `/`               |
