@@ -21,6 +21,7 @@ Assumptions:
 ## Projects
 
 1. [Angular](#Angular)
+1. [EmberJS](#EmberJS)
 1. [Gatsby](#Gatsby)
 1. [React](#React)
 1. [Svelte](#Svelte)
@@ -36,6 +37,18 @@ Build it
 cd angular
 npm install
 npm run build -- --prod
+```
+
+## EmberJS
+
+Created with the EmberJS CLI
+
+Build it
+
+```bash
+cd emberjs
+npm install
+npm run build
 ```
 
 ## Gatsby
