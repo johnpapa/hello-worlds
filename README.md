@@ -25,17 +25,18 @@ Assumptions:
 
 Projects are listed alphabetically
 
-| Project    | Build steps                                             | Serve this folder |
-| ---------- | ------------------------------------------------------- | ----------------- |
-| Angular    | `cd angular && npm install && npm run build -- --prod1` | `dist/hello`      |
-| Aurelia    | `cd aurelia && npm install && npm run build`            | `dist`            |
-| Gatsby     | `cd gatsby && npm install && npm run build`             | `public`          |
-| Html       |                                                         | `/`               |
-| JavaScript |                                                         | `/`               |
-| Next.js    | `cd nextjs && npm install && npm run build`             | `out`             |
-| React      | `cd react && npm install && npm run build`              | `build`           |
-| Svelte     | `cd svelte && npm install && npm run build`             | `public`          |
-| Vue        | `cd vue && npm install && npm run build`                | `dist`            |
+| Project    | Build steps               | Serve this folder | Project    |
+| ---------- | ------------------------- | ----------------- | ---------- |
+| Angular    | `npm run build -- --prod` | `dist/hello`      | angular    |
+| Aurelia    | `npm run build`           | `dist`            | aurelia    |
+| Gatsby     | `npm run build`           | `public`          | gatsby     |
+| Html       |                           | `/`               | html       |
+| JavaScript |                           | `/`               | javascript |
+| Next.js    | `npm run build`           | `out`             | nextjs     |
+| Nuxt.js    | `npm run generate`        | `dist`            | nuxtjs     |
+| React      | `npm run build`           | `build`           | react      |
+| Svelte     | `npm run build`           | `public`          | svelte     |
+| Vue        | `npm run build`           | `dist`            | vue        |
 
 ## Resources
 
