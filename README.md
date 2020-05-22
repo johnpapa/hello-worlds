@@ -33,6 +33,7 @@ Projects are listed alphabetically
 | Html       |                                                         | `/`               |
 | JavaScript |                                                         | `/`               |
 | Next.js    | `cd nextjs && npm install && npm run build`             | `out`             |
+| Nuxt.js    | `cd nuxtjs && npm install && npm run generate`          | `dist`            |
 | React      | `cd react && npm install && npm run build`              | `build`           |
 | Svelte     | `cd svelte && npm install && npm run build`             | `public`          |
 | Vue        | `cd vue && npm install && npm run build`                | `dist`            |
