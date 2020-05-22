@@ -15,5 +15,6 @@ By making a PR you are agreeing to that contributing a hello world project allow
 - [ ] no styling
 - [ ] nothing else !
 - [ ] must work by running `npm install` and `npm start` (or equivalent)
-- [ ] must add to the readme, alphabetically
 - [ ] must be in the folder named `<tech-name>`
+- [ ] add yourself using the all-contributors bot `@allcontributors please add @<your-github-account> for code`
+- [ ] add build steps and which folder to serve in the README.md, Serve the `public` folder
