@@ -77,7 +77,7 @@ Build it
 cd react
 npm install
 npm run build
-````
+```
 
 ## Svelte
 
