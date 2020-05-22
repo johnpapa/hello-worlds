@@ -39,6 +39,7 @@ Projects are listed alphabetically
 | Eleventy   | `npm run build`           | `_site`           | eleventy   |
 | Ember      | `npm run build`           | `dist`            | ember      |
 | Gatsby     | `npm run build`           | `public`          | gatsby     |
+| Glimmer    | `npm run build`           | `dist`            | glimmer    |
 | Html       |                           | `/`               | html       |
 | JavaScript |                           | `/`               | javascript |
 | Next.js    | `npm run build`           | `out`             | nextjs     |
