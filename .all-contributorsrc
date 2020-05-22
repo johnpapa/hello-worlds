@@ -58,6 +58,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "HugoDF",
+      "name": "Hugo",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6459679?v=4",
+      "profile": "https://codewithhugo.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
