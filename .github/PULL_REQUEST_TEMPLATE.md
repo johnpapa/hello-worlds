@@ -1,11 +1,3 @@
----
-name: New Hello World Project
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
----
-
 By making a PR you are agreeing to that contributing a hello world project allows the repo/project owner to use the hello world app in examples for their own use.
 
 - [ ] only the most simple basic hello world app
