@@ -1,6 +1,9 @@
 # hello-worlds
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -22,6 +25,7 @@ Assumptions:
 1. [React](#React)
 1. [Svelte](#Svelte)
 1. [Vue](#Vue)
+1. [Next.js](#Nextjs)
 
 ## Angular
 
@@ -83,6 +87,18 @@ npm install
 npm run build
 ```
 
+## Next.js
+
+Created with `create next-app`
+
+Build it
+
+```bash
+cd nextjs
+npm install
+npm run build
+```
+
 ## Resources
 
 - [VS Code](https://code.visualstudio.com?wt.mc_id=helloworlds-github-jopapa)
@@ -110,6 +126,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
