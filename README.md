@@ -37,6 +37,7 @@ Projects are listed alphabetically
 | Svelte     | `cd svelte && npm install && npm run build`             | `public`          |
 | Vue        | `cd vue && npm install && npm run build`                | `dist`            |
 | Flutter    | `cd flutter && flutter build web` (see README)          | `build/web`       |
+| Hugo       | `cd hugo && npm install && npm run build`               | `public`          |
 
 ## Resources
 
