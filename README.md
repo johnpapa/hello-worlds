@@ -53,6 +53,7 @@ Projects are listed alphabetically
 | Svelte     | `npm run build`                              | `public`          | svelte     |
 | ThreeJS    | `cd threejs`                                 | `/`               | threejs    |
 | Vue        | `npm run build`                              | `dist`            | vue        |
+| Vuepress   | `npm run build`                              | `dist`            | vuepress   |
 
 ## Resources
 
