@@ -21,6 +21,7 @@ Assumptions:
 ## Projects
 
 1. [Angular](#Angular)
+1. [Aurelia] (#Aurelia)
 1. [Gatsby](#Gatsby)
 1. [React](#React)
 1. [Svelte](#Svelte)
@@ -36,6 +37,18 @@ Build it
 cd angular
 npm install
 npm run build -- --prod
+```
+
+## Aurelia
+
+Created with the Aurelia CLI
+
+Build it
+
+```bash
+cd aurelia
+npm install
+npm run build
 ```
 
 ## Gatsby
