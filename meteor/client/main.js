@@ -2,11 +2,8 @@ import { Template } from 'meteor/templating';
 
 import './main.html';
 
-
-if(Meteor.isClient) {
+if (Meteor.isClient) {
   Template.myWord.helpers({
-    text: 'World'
+    text: 'World',
   });
 }
-
-
