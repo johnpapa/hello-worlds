@@ -1,7 +1,7 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -74,6 +74,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/matiaskm"><img src="https://avatars3.githubusercontent.com/u/18614906?v=4" width="100px;" alt=""/><br /><sub><b>Matias Kohan</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=matiaskm" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Duraimurugan"><img src="https://avatars3.githubusercontent.com/u/7348388?v=4" width="100px;" alt=""/><br /><sub><b>Duraimurugan</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=Duraimurugan" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/sandydoo"><img src="https://avatars3.githubusercontent.com/u/7572407?v=4" width="100px;" alt=""/><br /><sub><b>Sander Melnikov</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=sandydoo" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://angularhive.com"><img src="https://avatars0.githubusercontent.com/u/29446574?v=4" width="100px;" alt=""/><br /><sub><b>Udhayakumar Govindarajan</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=askudhay" title="Code">💻</a></td>
   </tr>
 </table>
 
