@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## To Access Static Web Scully
+To access you can run command npm run scully:serve and the website run on http://localhost:1668
+
+This project just show hello world from scully, so you can access on http://localhost:1668/blog/hello-world

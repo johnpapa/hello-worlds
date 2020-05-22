@@ -37,6 +37,7 @@ Projects are listed alphabetically
 | Svelte     | `cd svelte && npm install && npm run build`             | `public`          |
 | Vue        | `cd vue && npm install && npm run build`                | `dist`            |
 | Meteor     | `cd meteor && npm install && npm run build`             | `bundle`          |
+| Scully     | `cd scully && npm install && npm run build`             | `dist/static`     |
 
 ## Resources
 
