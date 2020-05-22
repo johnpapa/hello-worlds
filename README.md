@@ -10,14 +10,19 @@ Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
 
 Assumptions:
 
-1. Most minimal and reasonable version of the app
-1. Simplest form of the app, using the tool's CLI (if one exists for it)
-1. Remove any "extras" (link links to docs)
-1. Must include steps to build for production in this README.md file
-1. Use latest versions of each tool
-1. Must say "hello world"
-1. Must show how to build it and what folder to serve
-1. See existing samples for the idea ...
+- [ ] only the most simple basic hello world app
+- [ ] remove all tests and commands for tests and dependencies for tests
+- [ ] must say "Hello World" on the main component
+- [ ] only include the minimal components (1 ideally)
+- [ ] no routing, not extras whatsoever
+- [ ] no styling
+- [ ] nothing else !
+- [ ] must work by running `npm install` and `npm start` (or equivalent)
+- [ ] must be in the folder named `<tech-name>`
+- [ ] add yourself using the all-contributors bot `@allcontributors please add @<your-github-account> for code`
+- [ ] add build steps and which folder to serve in the README.md, Serve the `public` folder
+
+See existing samples for the idea ...
 
 [![Deploy to Azure button](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?feature.customportal=false&WT.mc_id=build2020_swa-github-jopapa#create/Microsoft.StaticApp)
 
