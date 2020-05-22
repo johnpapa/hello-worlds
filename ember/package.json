@@ -2,7 +2,7 @@
   "name": "hello-ember",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for hello-ember goes here",
+  "description": "A minimal hello world example in Ember",
   "repository": "",
   "license": "MIT",
   "author": "",

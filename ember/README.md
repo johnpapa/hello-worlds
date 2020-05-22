@@ -1,7 +1,6 @@
 # hello-ember
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A minimal hello world example in Ember.
 
 ## Prerequisites
 
@@ -14,8 +13,8 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd hello-ember`
+* `git clone https://github.com/johnpapa/hello-worlds` this repository
+* `cd hello-worlds/ember`
 * `npm install`
 
 ## Running / Development
@@ -43,10 +42,6 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 * `ember build` (development)
 * `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
 
