@@ -35,6 +35,7 @@ Projects are listed alphabetically
 | Next.js    | `cd nextjs && npm install && npm run build`             | `out`             |
 | React      | `cd react && npm install && npm run build`              | `build`           |
 | Svelte     | `cd svelte && npm install && npm run build`             | `public`          |
+| Stencil    | `cd stencil && npm install && npm run build`            | `www`             |
 | Vue        | `cd vue && npm install && npm run build`                | `dist`            |
 
 ## Resources
