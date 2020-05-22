@@ -44,6 +44,7 @@ Projects are listed alphabetically
 | Hugo       | `npm run build`                              | `public`          | hugo       |
 | JavaScript |                                              | `/`               | javascript |
 | KnockoutJS | `npm run build`                              | `dist`            | knockoutjs |
+| Lit-element| `npm run build`                              | `dist`            | lit-element|
 | Meteor     | `npm run build`                              | `bundle`          | meteor     |
 | Next.js    | `npm run build`                              | `out`             | nextjs     |
 | Nuxt.js    | `npm run generate`                           | `dist`            | nuxtjs     |
