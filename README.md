@@ -25,6 +25,7 @@ Assumptions:
 1. [React](#React)
 1. [Svelte](#Svelte)
 1. [Vue](#Vue)
+1. [Meteor](#Meteor)
 
 ## Angular
 
@@ -82,6 +83,18 @@ Build it
 
 ```bash
 cd vue
+npm install
+npm run build
+```
+
+## Meteor
+
+Created with `meteor`
+
+Build it
+
+```bash
+cd meteor
 npm install
 npm run build
 ```
