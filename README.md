@@ -24,7 +24,6 @@ Assumptions:
 - [ ] verify that the app once built can be served from whatever folder the built assets are placed in
 - [ ] verify that a Pull Request doesnt already exist. If it does, feel free to contribue to it.
 
-
 See existing samples for the idea ...
 
 [![Deploy to Azure button](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?feature.customportal=false&WT.mc_id=build2020_swa-github-jopapa#create/Microsoft.StaticApp)
