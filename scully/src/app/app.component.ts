@@ -1,23 +1,9 @@
-import { Component, OnInit } from '@angular/core';
-import { ScullyRoutesService } from '@scullyio/ng-lib';
-import { Observable } from 'rxjs';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  template: `<div>Hello {{ value }}</div>
-    <ul>
-      <li *ngFor="let page of links$ | async">{{ page.route }}</li>
-    </ul>`,
+  template: `<div>Hello {{ value }}</div>`,
 })
-export class AppComponent implements OnInit {
-  constructor(private scully: ScullyRoutesService) {}
-  links$: Observable<any> = this.scully.available$;
+export class AppComponent {
   value = 'World';
-
-  ngOnInit() {
-    // debug current pages
-    this.links$.subscribe((links) => {
-      console.log(links);
-    });
-  }
 }
