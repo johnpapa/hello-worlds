@@ -40,6 +40,7 @@
       "contributions": [
         "code"
       ]
+
     },
     {
       "login": "matiaskm",
@@ -55,6 +56,31 @@
       "name": "Duraimurugan",
       "avatar_url": "https://avatars3.githubusercontent.com/u/7348388?v=4",
       "profile": "https://github.com/Duraimurugan",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "manekinekko",
+      "name": "Wassim Chegham",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1699357?v=4",
+      "profile": "https://wassim.dev",
+      "contributions": [
+        "code"
+      ]
+      "login": "sandydoo",
+      "name": "Sander Melnikov",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7572407?v=4",
+      "profile": "https://github.com/sandydoo",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "askudhay",
+      "name": "Udhayakumar Govindarajan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/29446574?v=4",
+      "profile": "https://angularhive.com",
       "contributions": [
         "code"
       ]
