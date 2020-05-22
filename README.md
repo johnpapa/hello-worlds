@@ -30,19 +30,19 @@ See existing samples for the idea ...
 
 Projects are listed alphabetically
 
-| Project    | Build steps                                 | Serve this folder | Project    |
-| ---------- | ------------------------------------------- | ----------------- | ---------- |
-| Angular    | `npm run build -- --prod`                   | `dist/hello`      | angular    |
-| Aurelia    | `npm run build`                             | `dist`            | aurelia    |
-| Gatsby     | `npm run build`                             | `public`          | gatsby     |
-| Html       |                                             | `/`               | html       |
-| JavaScript |                                             | `/`               | javascript |
-| Next.js    | `npm run build`                             | `out`             | nextjs     |
-| Nuxt.js    | `npm run generate`                          | `dist`            | nuxtjs     |
-| React      | `npm run build`                             | `build`           | react      |
-| Scully     | `npm run build -- --prod && npm run scully` | `dist/static`     | scully     |
-| Svelte     | `npm run build`                             | `public`          | svelte     |
-| Vue        | `npm run build`                             | `dist`            | vue        |
+| Project    | Build steps               | Serve this folder | Project    |
+| ---------- | ------------------------- | ----------------- | ---------- |
+| Angular    | `npm run build -- --prod` | `dist/hello`      | angular    |
+| Aurelia    | `npm run build`           | `dist`            | aurelia    |
+| Gatsby     | `npm run build`           | `public`          | gatsby     |
+| Html       |                           | `/`               | html       |
+| JavaScript |                           | `/`               | javascript |
+| Next.js    | `npm run build`           | `out`             | nextjs     |
+| Nuxt.js    | `npm run generate`        | `dist`            | nuxtjs     |
+| React      | `npm run build`           | `build`           | react      |
+| Scully     | `npm run build -- --prod` | `dist/hello`      | scully     |
+| Svelte     | `npm run build`           | `public`          | svelte     |
+| Vue        | `npm run build`           | `dist`            | vue        |
 
 ## Resources
 
