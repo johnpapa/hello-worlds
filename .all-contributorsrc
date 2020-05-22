@@ -31,6 +31,18 @@
       "contributions": [
         "code"
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "login": "ksivamuthu",
+      "name": "Sivamuthu Kumar",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4029525?v=4",
+      "profile": "https://twitter.com/ksivamuthu",
+      "contributions": [
+        "code"
+      ]
+>>>>>>> 8a6a60aa221b53d9757a7dbb264de4c72e35d7ac
     }
   ],
   "contributorsPerLine": 7,
