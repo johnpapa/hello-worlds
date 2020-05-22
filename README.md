@@ -88,15 +88,7 @@ npm run build
 
 ## Html
 
-Created with `npm cli`
-
-Build it
-
-```bash
-cd html
-npm install
-npm run build
-```
+No build requiredc
 
 ## Resources
 
