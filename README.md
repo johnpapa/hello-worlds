@@ -29,6 +29,7 @@ Projects are listed alphabetically
 | ---------- | ------------------------------------------------------- | ----------------- |
 | Angular    | `cd angular && npm install && npm run build -- --prod1` | `dist/hello`      |
 | Aurelia    | `cd aurelia && npm install && npm run build`            | `dist`            |
+| Eleventy   | `cd eleventy && npm install && npm run build`           | `_site`           |
 | Gatsby     | `cd gatsby && npm install && npm run build`             | `public`          |
 | Html       |                                                         | `/`               |
 | JavaScript |                                                         | `/`               |
