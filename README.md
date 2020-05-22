@@ -15,6 +15,7 @@ Assumptions:
 ## Projects
 
 1. [Angular](#Angular)
+1. [Gatsby](#Gatsby)
 1. [React](#React)
 1. [Svelte](#Svelte)
 1. [Vue](#Vue)
@@ -31,7 +32,17 @@ npm install
 npm run build -- --prod
 ```
 
-Instructions to [run the app in dev mode](https://github.com/johnpapa/hello-worlds/tree/master/angular/hello)
+## Gatsby
+
+Created with `gatsby-cli`
+
+Build it
+
+```bash
+cd gatsby
+npm install
+npm run build
+```
 
 ## React
 
@@ -44,8 +55,6 @@ cd react
 npm install
 npm run build
 ```
-
-Instructions to [run the app in dev mode](https://github.com/johnpapa/hello-worlds/tree/master/react/hello)
 
 ## Svelte
 
