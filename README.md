@@ -63,12 +63,6 @@ Projects are listed alphabetically
 - [Routes](https://docs.microsoft.com/azure/static-web-apps/routes?wt.mc_id=staticwebapp-github-jopapa)
 - [Review pre-production environments](https://docs.microsoft.com/azure/static-web-apps/review-publish-pull-requests?wt.mc_id=staticwebapp-github-jopapa)
 
-### Debugging Resources
-
-- [Debugging Angular in VS Code](https://code.visualstudio.com/docs/nodejs/angular-tutorial?wt.mc_id=helloworlds-github-jopapa)
-- [Debugging React in VS Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial?wt.mc_id=helloworlds-github-jopapa)
-- [Debugging Vue in VS Code](https://code.visualstudio.com/docs/nodejs/vuejs-tutorial?wt.mc_id=helloworlds-github-jopapa)
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
