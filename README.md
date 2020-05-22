@@ -37,6 +37,7 @@ Projects are listed alphabetically
 | ---------- | ------------------------- | ----------------- | ---------- |
 | Angular    | `npm run build -- --prod` | `dist/hello`      | angular    |
 | Aurelia    | `npm run build`           | `dist`            | aurelia    |
+| Ember      | `npm run build`           | `dist`            | ember      |
 | Gatsby     | `npm run build`           | `public`          | gatsby     |
 | Html       |                           | `/`               | html       |
 | JavaScript |                           | `/`               | javascript |
