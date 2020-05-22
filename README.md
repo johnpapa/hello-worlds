@@ -24,6 +24,7 @@ Assumptions:
 1. [React](#React)
 1. [Svelte](#Svelte)
 1. [Vue](#Vue)
+1. [Backbone.js](#Backbone.js)
 
 ## Angular
 
@@ -97,6 +98,18 @@ Build it
 cd vue
 npm install
 npm run build
+```
+
+Serve the `dist` folder
+
+## Backbone.js
+
+No build required, serve the index.html
+
+```bash
+cd backbone.js
+npm install
+npm run start
 ```
 
 Serve the `dist` folder
