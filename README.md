@@ -16,6 +16,7 @@ Assumptions:
 1. Must include steps to build for production in this README.md file
 1. Use latest versions of each tool
 1. Must say "hello world"
+1. Must show how to build it and what folder to serve
 1. See existing samples for the idea ...
 
 ## Projects
