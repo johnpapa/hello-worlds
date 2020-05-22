@@ -61,11 +61,13 @@ Created with `create next-app`
 
 Build it
 
-````bash
+```bash
 cd nextjs
 npm install
 npm run build
+```
 
+Serve the `out` folder
 
 ## React
 
