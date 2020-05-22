@@ -31,8 +31,6 @@
       "contributions": [
         "code"
       ]
-<<<<<<< HEAD
-=======
     },
     {
       "login": "ksivamuthu",
@@ -42,7 +40,16 @@
       "contributions": [
         "code"
       ]
->>>>>>> 8a6a60aa221b53d9757a7dbb264de4c72e35d7ac
+
+    },
+    {
+      "login": "matiaskm",
+      "name": "Matias Kohan",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/18614906?v=4",
+      "profile": "https://github.com/matiaskm",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

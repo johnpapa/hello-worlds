@@ -1,11 +1,7 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<<<<<<< HEAD
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-=======
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
->>>>>>> 8a6a60aa221b53d9757a7dbb264de4c72e35d7ac
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -121,6 +117,20 @@ npm run build
 ```
 
 Serve the `dist` folder
+
+## Meteor
+
+Created with `meteor`
+
+Build it
+
+```bash
+cd meteor
+npm install
+npm run build
+```
+
+Serve the `bundle` folder
 
 ## Resources
 
