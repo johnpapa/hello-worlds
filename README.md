@@ -4,6 +4,8 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
 
 Assumptions:
@@ -82,5 +84,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+```
 
 ```
