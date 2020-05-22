@@ -1,9 +1,7 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-blue.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -20,7 +18,9 @@ Assumptions:
 - [ ] must work by running `npm install` and `npm start` (or equivalent)
 - [ ] must be in the folder named `<tech-name>`
 - [ ] add yourself using the all-contributors bot `@allcontributors please add @<your-github-account> for code`
-- [ ] add build steps and which folder to serve in the README.md, Serve the `public` folder
+- [ ] add build steps and which folder to serve in the README.md
+- [ ] verify that the app once built can be served from whatever folder the built assets are placed in
+- [ ] verify that a Pull Request doesnt already exist. If it does, feel free to contribue to it.
 
 See existing samples for the idea ...
 
@@ -35,6 +35,7 @@ Projects are listed alphabetically
 | Angular    | `npm run build -- --prod` | `dist/hello`      | angular    |
 | Aurelia    | `npm run build`           | `dist`            | aurelia    |
 | Eleventy   | `npm run build`           | `_site`           | eleventy   |
+| Ember      | `npm run build`           | `dist`            | ember      |
 | Gatsby     | `npm run build`           | `public`          | gatsby     |
 | Html       |                           | `/`               | html       |
 | JavaScript |                           | `/`               | javascript |
@@ -73,12 +74,15 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://twitter.com/ksivamuthu"><img src="https://avatars0.githubusercontent.com/u/4029525?v=4" width="100px;" alt=""/><br /><sub><b>Sivamuthu Kumar</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=ksivamuthu" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/matiaskm"><img src="https://avatars3.githubusercontent.com/u/18614906?v=4" width="100px;" alt=""/><br /><sub><b>Matias Kohan</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=matiaskm" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Duraimurugan"><img src="https://avatars3.githubusercontent.com/u/7348388?v=4" width="100px;" alt=""/><br /><sub><b>Duraimurugan</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=Duraimurugan" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/sandydoo"><img src="https://avatars3.githubusercontent.com/u/7572407?v=4" width="100px;" alt=""/><br /><sub><b>Sander Melnikov</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=sandydoo" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://angularhive.com"><img src="https://avatars0.githubusercontent.com/u/29446574?v=4" width="100px;" alt=""/><br /><sub><b>Udhayakumar Govindarajan</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=askudhay" title="Code">💻</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
