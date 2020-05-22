@@ -1,7 +1,9 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -23,6 +25,7 @@ Assumptions:
 1. [Aurelia](#Aurelia)
 1. [Gatsby](#Gatsby)
 1. [HTML](#HTML)
+1. [Next.js](#Nextjs)
 1. [React](#React)
 1. [Svelte](#Svelte)
 1. [Vue](#Vue)
@@ -75,6 +78,20 @@ No build required
 
 Serve the `/` folder
 
+## Next.js
+
+Created with `create next-app`
+
+Build it
+
+```bash
+cd nextjs
+npm install
+npm run build
+```
+
+Serve the `out` folder
+
 ## React
 
 Created with `create-react-app`
@@ -123,12 +140,6 @@ Serve the `dist` folder
 - [Azure Free Trial](https://azure.microsoft.com/en-us/free/?wt.mc_id=helloworlds-github-jopapa)
 - [VS Code Extension for Node on Azure](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack&WT.mc_id=helloworlds-github-jopapa)
 
-### Debugging Resources
-
-- [Debugging Angular in VS Code](https://code.visualstudio.com/docs/nodejs/angular-tutorial?wt.mc_id=helloworlds-github-jopapa)
-- [Debugging React in VS Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial?wt.mc_id=helloworlds-github-jopapa)
-- [Debugging Vue in VS Code](https://code.visualstudio.com/docs/nodejs/vuejs-tutorial?wt.mc_id=helloworlds-github-jopapa)
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -147,6 +158,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
