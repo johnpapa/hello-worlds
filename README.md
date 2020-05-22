@@ -19,6 +19,7 @@ Assumptions:
 1. [React](#React)
 1. [Svelte](#Svelte)
 1. [Vue](#Vue)
+1. [Scully](#Scully)
 
 ## Angular
 
@@ -78,6 +79,19 @@ Build it
 cd vue
 npm install
 npm run build
+```
+
+## Scully
+
+Created with the Angular CLI
+
+Build it
+
+```bash
+cd scully
+npm install
+npm run build -- --prod
+npm run scully
 ```
 
 ## Resources
