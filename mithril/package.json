@@ -1,0 +1,16 @@
+{
+  "name": "hello-mithril",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.js"
+  },
+  "dependencies": {
+    "mithril": "^2.0.4"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
