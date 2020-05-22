@@ -1,7 +1,9 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -19,118 +21,18 @@ Assumptions:
 
 ## Projects
 
-1. [Angular](#Angular)
-1. [Aurelia](#Aurelia)
-1. [Gatsby](#Gatsby)
-1. [HTML](#HTML)
-1. [React](#React)
-1. [Svelte](#Svelte)
-1. [Vue](#Vue)
-1. [Meteor](#Meteor)
-
-## Angular
-
-Created with the Angular CLI
-
-Build it
-
-```bash
-cd angular
-npm install
-npm run build -- --prod
-```
-
-Serve the `dist/hello` folder
-
-## Aurelia
-
-Created with the Aurelia CLI
-
-Build it
-
-```bash
-cd aurelia
-npm install
-npm run build
-```
-
-Serve the `dist` folder
-
-## Gatsby
-
-Created with `gatsby-cli`
-
-Build it
-
-```bash
-cd gatsby
-npm install
-npm run build
-```
-
-Serve the `public` folder
-
-## Html
-
-No build required
-
-Serve the `/` folder
-
-## React
-
-Created with `create-react-app`
-
-Build it
-
-```bash
-cd react
-npm install
-npm run build
-```
-
-Serve the `build` folder
-
-## Svelte
-
-Created with `sveltejs/template my-svelte-project`
-
-Build it
-
-```bash
-cd svelte
-npm install
-npm run build
-```
-
-Serve the `public` folder
-
-## Vue
-
-Created with `@vue/cli`
-
-Build it
-
-```bash
-cd vue
-npm install
-npm run build
-```
-
-Serve the `dist` folder
-
-## Meteor
-
-Created with `meteor`
-
-Build it
-
-```bash
-cd meteor
-npm install
-npm run build
-```
-
-Serve the `bundle` folder
+| Project    | Build steps                                             | Serve this folder |
+| ---------- | ------------------------------------------------------- | ----------------- |
+| Angular    | `cd angular && npm install && npm run build -- --prod1` | `dist/hello`      |
+| Aurelia    | `cd aurelia && npm install && npm run build`            | `dist`            |
+| Gatsby     | `cd gatsby && npm install && npm run build`             | `public`          |
+| Html       |                                                         | `/`               |
+| JavaScript |                                                         | `/`               |
+| Next.js    | `cd nextjs && npm install && npm run build`             | `out`             |
+| React      | `cd react && npm install && npm run build`              | `build`           |
+| Svelte     | `cd svelte && npm install && npm run build`             | `public`          |
+| Vue        | `cd vue && npm install && npm run build`                | `dist`            |
+| Meteor     | `cd meteor && npm install && npm run build`             | `bundle`          |
 
 ## Resources
 
@@ -157,6 +59,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/laurieontech"><img src="https://avatars3.githubusercontent.com/u/15000607?v=4" width="100px;" alt=""/><br /><sub><b>LB</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=laurieontech" title="Code">💻</a></td>
     <td align="center"><a href="https://simicode.me"><img src="https://avatars1.githubusercontent.com/u/25581792?v=4" width="100px;" alt=""/><br /><sub><b>Simeon Udoh</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=simeon4real" title="Code">💻</a></td>
     <td align="center"><a href="https://twitter.com/ksivamuthu"><img src="https://avatars0.githubusercontent.com/u/4029525?v=4" width="100px;" alt=""/><br /><sub><b>Sivamuthu Kumar</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=ksivamuthu" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/matiaskm"><img src="https://avatars3.githubusercontent.com/u/18614906?v=4" width="100px;" alt=""/><br /><sub><b>Matias Kohan</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=matiaskm" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Duraimurugan"><img src="https://avatars3.githubusercontent.com/u/7348388?v=4" width="100px;" alt=""/><br /><sub><b>Duraimurugan</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=Duraimurugan" title="Code">💻</a></td>
   </tr>
 </table>
 
