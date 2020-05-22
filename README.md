@@ -1,21 +1,32 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+<<<<<<< HEAD
 [![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+=======
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-blue.svg?style=flat-square)](#contributors-)
+>>>>>>> master
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
 
 Assumptions:
 
-1. Most minimal and reasonable version of the app
-1. Simplest form of the app, using the tool's CLI (if one exists for it)
-1. Remove any "extras" (link links to docs)
-1. Must include steps to build for production in this README.md file
-1. Use latest versions of each tool
-1. Must say "hello world"
-1. Must show how to build it and what folder to serve
-1. See existing samples for the idea ...
+- [ ] only the most simple basic hello world app
+- [ ] remove all tests and commands for tests and dependencies for tests
+- [ ] must say "Hello World" on the main component
+- [ ] only include the minimal components (1 ideally)
+- [ ] no routing, not extras whatsoever
+- [ ] no styling
+- [ ] nothing else !
+- [ ] must work by running `npm install` and `npm start` (or equivalent)
+- [ ] must be in the folder named `<tech-name>`
+- [ ] add yourself using the all-contributors bot `@allcontributors please add @<your-github-account> for code`
+- [ ] add build steps and which folder to serve in the README.md
+- [ ] verify that the app once built can be served from whatever folder the built assets are placed in
+- [ ] verify that a Pull Request doesnt already exist. If it does, feel free to contribue to it.
+
+See existing samples for the idea ...
 
 [![Deploy to Azure button](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?feature.customportal=false&WT.mc_id=build2020_swa-github-jopapa#create/Microsoft.StaticApp)
 
@@ -23,17 +34,20 @@ Assumptions:
 
 Projects are listed alphabetically
 
-| Project    | Build steps                                             | Serve this folder |
-| ---------- | ------------------------------------------------------- | ----------------- |
-| Angular    | `cd angular && npm install && npm run build -- --prod1` | `dist/hello`      |
-| Aurelia    | `cd aurelia && npm install && npm run build`            | `dist`            |
-| Gatsby     | `cd gatsby && npm install && npm run build`             | `public`          |
-| Html       |                                                         | `/`               |
-| JavaScript |                                                         | `/`               |
-| Next.js    | `cd nextjs && npm install && npm run build`             | `out`             |
-| React      | `cd react && npm install && npm run build`              | `build`           |
-| Svelte     | `cd svelte && npm install && npm run build`             | `public`          |
-| Vue        | `cd vue && npm install && npm run build`                | `dist`            |
+| Project    | Build steps               | Serve this folder | Project    |
+| ---------- | ------------------------- | ----------------- | ---------- |
+| Angular    | `npm run build -- --prod` | `dist/hello`      | angular    |
+| Aurelia    | `npm run build`           | `dist`            | aurelia    |
+| Eleventy   | `npm run build`           | `_site`           | eleventy   |
+| Ember      | `npm run build`           | `dist`            | ember      |
+| Gatsby     | `npm run build`           | `public`          | gatsby     |
+| Html       |                           | `/`               | html       |
+| JavaScript |                           | `/`               | javascript |
+| Next.js    | `npm run build`           | `out`             | nextjs     |
+| Nuxt.js    | `npm run generate`        | `dist`            | nuxtjs     |
+| React      | `npm run build`           | `build`           | react      |
+| Svelte     | `npm run build`           | `public`          | svelte     |
+| Vue        | `npm run build`           | `dist`            | vue        |
 
 ## Resources
 
@@ -64,7 +78,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://twitter.com/ksivamuthu"><img src="https://avatars0.githubusercontent.com/u/4029525?v=4" width="100px;" alt=""/><br /><sub><b>Sivamuthu Kumar</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=ksivamuthu" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/matiaskm"><img src="https://avatars3.githubusercontent.com/u/18614906?v=4" width="100px;" alt=""/><br /><sub><b>Matias Kohan</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=matiaskm" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Duraimurugan"><img src="https://avatars3.githubusercontent.com/u/7348388?v=4" width="100px;" alt=""/><br /><sub><b>Duraimurugan</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=Duraimurugan" title="Code">💻</a></td>
+<<<<<<< HEAD
     <td align="center"><a href="https://wassim.dev"><img src="https://avatars2.githubusercontent.com/u/1699357?v=4" width="100px;" alt=""/><br /><sub><b>Wassim Chegham</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=manekinekko" title="Code">💻</a></td>
+=======
+    <td align="center"><a href="https://github.com/sandydoo"><img src="https://avatars3.githubusercontent.com/u/7572407?v=4" width="100px;" alt=""/><br /><sub><b>Sander Melnikov</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=sandydoo" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://angularhive.com"><img src="https://avatars0.githubusercontent.com/u/29446574?v=4" width="100px;" alt=""/><br /><sub><b>Udhayakumar Govindarajan</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=askudhay" title="Code">💻</a></td>
+>>>>>>> master
   </tr>
 </table>
 
