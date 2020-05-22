@@ -44,6 +44,7 @@ Projects are listed alphabetically
 | Next.js    | `npm run build`           | `out`             | nextjs     |
 | Nuxt.js    | `npm run generate`        | `dist`            | nuxtjs     |
 | React      | `npm run build`           | `build`           | react      |
+| Scully     | `npm run build -- --prod` | `dist/hello`      | scully     |
 | Svelte     | `npm run build`           | `public`          | svelte     |
 | Vue        | `npm run build`           | `dist`            | vue        |
 
