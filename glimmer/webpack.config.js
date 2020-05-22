@@ -1,5 +1,4 @@
 const path = require('path');
-const glob = require('glob');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CopyPlugin = require('copy-webpack-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
@@ -14,25 +13,10 @@ module.exports = () => {
   const plugins = [
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      template: './index.html',
-      excludeChunks: ['tests'],
+      template: './index.html'
     }),
     new CopyPlugin([{ from: 'public', to: 'public' }]),
   ];
-
-  // Include tests in development builds
-  if (!IS_PRODUCTION) {
-    entry.tests = glob.sync('./tests/**/*.test.js');
-
-    plugins.push(
-      new HtmlWebpackPlugin({
-        filename: 'tests/index.html',
-        template: './tests/index.html',
-        inject: 'head',
-        chunks: ['tests'],
-      })
-    );
-  }
 
   return {
     mode: IS_PRODUCTION ? 'production' : 'development',

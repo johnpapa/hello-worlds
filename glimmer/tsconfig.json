@@ -5,10 +5,7 @@
     "inlineSourceMap": true,
     "inlineSources": true,
     "moduleResolution": "node",
-    "experimentalDecorators": true,
-    "types": [
-      "qunit"
-    ]
+    "experimentalDecorators": true
   },
   "exclude": [
     "node_modules",

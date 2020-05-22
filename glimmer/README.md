@@ -1,7 +1,6 @@
 # hello-glimmer
 
-This README outlines the details of collaborating on this Glimmer application.
-A short introduction of this app could easily go here.
+A minimal hello world example in Glimmer.
 
 ## Prerequisites
 
@@ -9,22 +8,21 @@ You will need the following things properly installed on your computer.
 
 * [Git](https://git-scm.com/)
 * [Node.js](https://nodejs.org/) (with NPM)
-* [Yarn](https://yarnpkg.com/en/)
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd hello-glimmer`
-* `yarn`
+* `git clone https://github.com/johnpapa/hello-worlds.git` this repository
+* `cd glimmer`
+* `npm install`
 
 ## Running / Development
 
-* `yarn start`
+* `npm run start`
 * Visit your app at [http://localhost:8080](http://localhost:8080).
 
 ### Building
 
-* `yarn build`
+* `npm run build`
 
 ## Further Reading / Useful Links
 

@@ -1,6 +1,6 @@
 {
   "short_name": "hello-glimmer",
-  "name": "A brand new Glimmer app.",
+  "name": "A minimal hello world example in Glimmer.",
   "icons": [
     {
       "src": "favicon.png",
