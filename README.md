@@ -44,6 +44,14 @@ npm install
 npm run build
 ```
 
+## jQuery
+
+Created manually
+
+```bash
+npm run serve
+```
+
 ## React
 
 Created with `create-react-app`
@@ -78,18 +86,6 @@ Build it
 cd vue
 npm install
 npm run build
-```
-
-Instructions to [run the app in dev mode](https://github.com/johnpapa/hello-worlds/tree/master/svelte/hello)
-
-## jQuery
-
-Created manually
-
-```bash
-npm run serve
-# choose no routing
-# choose css
 ```
 
 ## Resources
