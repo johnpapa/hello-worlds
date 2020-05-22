@@ -19,7 +19,11 @@ Assumptions:
 1. Must show how to build it and what folder to serve
 1. See existing samples for the idea ...
 
+[![Deploy to Azure button](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?feature.customportal=false&WT.mc_id=build2020_swa-github-jopapa#create/Microsoft.StaticApp)
+
 ## Projects
+
+Projects are listed alphabetically
 
 | Project    | Build steps                                             | Serve this folder |
 | ---------- | ------------------------------------------------------- | ----------------- |
@@ -36,9 +40,17 @@ Assumptions:
 
 ## Resources
 
-- [VS Code](https://code.visualstudio.com?wt.mc_id=helloworlds-github-jopapa)
 - [Azure Free Trial](https://azure.microsoft.com/en-us/free/?wt.mc_id=helloworlds-github-jopapa)
-- [VS Code Extension for Node on Azure](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack&WT.mc_id=helloworlds-github-jopapa)
+- [VS Code](https://code.visualstudio.com?wt.mc_id=helloworlds-github-jopapa)
+
+### Azure Static Web Apps
+
+- Learn how to [Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api?wt.mc_id=staticwebapp-github-jopapa)
+- [API support in Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/apis?wt.mc_id=staticwebapp-github-jopapa)
+- [Add an API to Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/add-api?wt.mc_id=staticwebapp-github-jopapa)
+- [Authentication and authorization](https://docs.microsoft.com/azure/static-web-apps/authentication-authorization?wt.mc_id=staticwebapp-github-jopapa)
+- [Routes](https://docs.microsoft.com/azure/static-web-apps/routes?wt.mc_id=staticwebapp-github-jopapa)
+- [Review pre-production environments](https://docs.microsoft.com/azure/static-web-apps/review-publish-pull-requests?wt.mc_id=staticwebapp-github-jopapa)
 
 ### Debugging Resources
 
@@ -69,3 +81,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+```
+
+```
