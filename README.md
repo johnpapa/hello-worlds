@@ -2,7 +2,7 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-blue.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-blue.svg?style=flat-square)](#contributors)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
@@ -90,6 +90,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://gilcreque.com"><img src="https://avatars2.githubusercontent.com/u/243234?v=4" width="100px;" alt=""/><br /><sub><b>Gil Creque</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=gilcreque" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/afflexux"><img src="https://avatars0.githubusercontent.com/u/35804265?v=4" width="100px;" alt=""/><br /><sub><b>afflexux</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=afflexux" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/apps/allcontributors"><img src="https://avatars0.githubusercontent.com/in/23186?v=4" width="100px;" alt=""/><br /><sub><b>allcontributors[bot]</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=allcontributors[bot]" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://twitter.com/sinedied"><img src="https://avatars0.githubusercontent.com/u/593151?v=4" width="100px;" alt=""/><br /><sub><b>Yohan Lasorsa</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=sinedied" title="Code">💻</a></td>
   </tr>
 </table>
 
