@@ -8,7 +8,6 @@
     "build": "webpack"
   },
   "keywords": [],
-  "author": "Bertrand Tchoumkeu",
   "license": "MIT",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
