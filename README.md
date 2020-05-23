@@ -41,6 +41,7 @@ Projects are listed alphabetically
 | Gatsby     | `npm run build`           | `public`          | gatsby     |
 | Html       |                           | `/`               | html       |
 | JavaScript |                           | `/`               | javascript |
+| KnockoutJS | `npm run build`           | `dist`            | knockoutjs |
 | Meteor     | `npm run build`           | `bundle`          | meteor     |
 | Next.js    | `npm run build`           | `out`             | nextjs     |
 | Nuxt.js    | `npm run generate`        | `dist`            | nuxtjs     |
