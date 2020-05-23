@@ -1,7 +1,9 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-16-blue.svg?style=flat-square)](#contributors)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -36,6 +38,7 @@ Projects are listed alphabetically
 | Aurelia    | `npm run build`           | `dist`            | aurelia    |
 | Eleventy   | `npm run build`           | `_site`           | eleventy   |
 | Ember      | `npm run build`           | `dist`            | ember      |
+| Flutter    | `flutter build web`       | `build/web`       | flutter    |
 | Gatsby     | `npm run build`           | `public`          | gatsby     |
 | Html       |                           | `/`               | html       |
 | Hugo       | `npm run build`           | `public`          | hugo       |
@@ -99,6 +102,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
