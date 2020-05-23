@@ -5,9 +5,11 @@
 You need to have Flutter SDK installed on your computer in order to build and run this project.
 
 Follow the steps:
+
 - [Flutter SDK installation](https://flutter.dev/docs/get-started/install). There is no need to install Android Studio if you only plan to build a web app.
 
 Then, to enable [Flutter for web](https://flutter.dev/docs/get-started/web) run:
+
 ```
  flutter channel beta
  flutter upgrade
@@ -15,11 +17,13 @@ Then, to enable [Flutter for web](https://flutter.dev/docs/get-started/web) run:
 ```
 
 Run your web app
+
 ```
 flutter run -d chrome
 ```
 
 Build your wed app to build/web folder:
+
 ```
  flutter build web
 ```
