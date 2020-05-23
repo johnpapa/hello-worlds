@@ -139,6 +139,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "webmaxru",
+      "name": "Maxim Salnikov",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1560278?v=4",
+      "profile": "https://medium.com/@webmaxru",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
