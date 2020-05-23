@@ -32,27 +32,27 @@ See existing samples for the idea ...
 
 Projects are listed alphabetically
 
-| Project    | Build steps                      | Serve this folder | Project    |
-| ---------- | -------------------------------- | ----------------- | ---------- |
-| Angular    | `npm run build -- --prod`        | `dist/hello`      | angular    |
-| Aurelia    | `npm run build`                  | `dist`            | aurelia    |
-| Eleventy   | `npm run build`                  | `_site`           | eleventy   |
-| Ember      | `npm run build`                  | `dist`            | ember      |
-| Flutter    | `flutter build web` (see README) | `build/web`       | flutter    |
-| Gatsby     | `npm run build`                  | `public`          | gatsby     |
-| Html       |                                  | `/`               | html       |
-| Hugo       | `npm run build`                  | `public`          | hugo       |
-| JavaScript |                                  | `/`               | javascript |
-| KnockoutJS | `npm run build`                  | `dist`            | knockoutjs |
-| Meteor     | `npm run build`                  | `bundle`          | meteor     |
-| Next.js    | `npm run build`                  | `out`             | nextjs     |
-| Nuxt.js    | `npm run generate`               | `dist`            | nuxtjs     |
-| React      | `npm run build`                  | `build`           | react      |
-| Scully     | `npm run build -- --prod`        | `dist/hello`      | scully     |
-| Stencil    | `npm run build`                  | `www`             | stencil    |
-| Svelte     | `npm run build`                  | `public`          | svelte     |
-| ThreeJS    | `cd threejs`                     | `/`               | threejs    |
-| Vue        | `npm run build`                  | `dist`            | vue        |
+| Project    | Build steps               | Serve this folder | Project    |
+| ---------- | ------------------------- | ----------------- | ---------- |
+| Angular    | `npm run build -- --prod` | `dist/hello`      | angular    |
+| Aurelia    | `npm run build`           | `dist`            | aurelia    |
+| Eleventy   | `npm run build`           | `_site`           | eleventy   |
+| Ember      | `npm run build`           | `dist`            | ember      |
+| Flutter    | `flutter build web`       | `build/web`       | flutter    |
+| Gatsby     | `npm run build`           | `public`          | gatsby     |
+| Html       |                           | `/`               | html       |
+| Hugo       | `npm run build`           | `public`          | hugo       |
+| JavaScript |                           | `/`               | javascript |
+| KnockoutJS | `npm run build`           | `dist`            | knockoutjs |
+| Meteor     | `npm run build`           | `bundle`          | meteor     |
+| Next.js    | `npm run build`           | `out`             | nextjs     |
+| Nuxt.js    | `npm run generate`        | `dist`            | nuxtjs     |
+| React      | `npm run build`           | `build`           | react      |
+| Scully     | `npm run build -- --prod` | `dist/hello`      | scully     |
+| Stencil    | `npm run build`           | `www`             | stencil    |
+| Svelte     | `npm run build`           | `public`          | svelte     |
+| ThreeJS    | `cd threejs`              | `/`               | threejs    |
+| Vue        | `npm run build`           | `dist`            | vue        |
 
 ## Resources
 
