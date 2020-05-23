@@ -40,6 +40,7 @@ Projects are listed alphabetically
 | Ember      | `npm run build`           | `dist`            | ember      |
 | Gatsby     | `npm run build`           | `public`          | gatsby     |
 | Html       |                           | `/`               | html       |
+| Hugo       | `npm run build`           | `public`          | hugo       |
 | JavaScript |                           | `/`               | javascript |
 | KnockoutJS | `npm run build`           | `dist`            | knockoutjs |
 | Meteor     | `npm run build`           | `bundle`          | meteor     |
