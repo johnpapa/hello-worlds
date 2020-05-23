@@ -1,0 +1,20 @@
+{
+  "name": "hello-eleventy",
+  "private": true,
+  "description": "Eleventy hello world",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  },
+  "author": {
+    "name": "Wassim Chegham",
+    "email": "hi@wassim.dev",
+    "url": "https://wassim.dev"
+  }
+}

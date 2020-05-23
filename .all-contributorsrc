@@ -58,6 +58,69 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "manekinekko",
+      "name": "Wassim Chegham",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1699357?v=4",
+      "profile": "https://wassim.dev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sandydoo",
+      "name": "Sander Melnikov",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7572407?v=4",
+      "profile": "https://github.com/sandydoo",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "askudhay",
+      "name": "Udhayakumar Govindarajan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/29446574?v=4",
+      "profile": "https://angularhive.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "afifalfiano",
+      "name": "Afif Alfiano",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/47497276?v=4",
+      "profile": "https://behance.net/afifalfiano",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "gilcreque",
+      "name": "Gil Creque",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/243234?v=4",
+      "profile": "http://gilcreque.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "afflexux",
+      "name": "afflexux",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35804265?v=4",
+      "profile": "https://github.com/afflexux",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "allcontributors[bot]",
+      "name": "allcontributors[bot]",
+      "avatar_url": "https://avatars0.githubusercontent.com/in/23186?v=4",
+      "profile": "https://github.com/apps/allcontributors",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -65,5 +128,7 @@
   "projectOwner": "johnpapa",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "none",
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-blue.svg?style=flat-square)](#contributors)"
 }
