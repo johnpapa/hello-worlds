@@ -1,0 +1,16 @@
+{
+  "name": "hello-stencil",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Stencil App Starter",
+  "scripts": {
+    "build": "stencil build",
+    "start": "stencil build --dev --watch --serve",
+    "generate": "stencil generate"
+  },
+  "devDependencies": {
+    "@stencil/core": "^1.12.2",
+    "@stencil/router": "^1.0.1"
+  },
+  "license": "MIT"
+}
