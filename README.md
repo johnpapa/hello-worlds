@@ -51,8 +51,6 @@ Projects are listed alphabetically
 | Svelte     | `npm run build`           | `public`          | svelte     |
 | Vue        | `npm run build`           | `dist`            | vue        |
 
-> > > > > > > master
-
 ## Resources
 
 - [Azure Free Trial](https://azure.microsoft.com/en-us/free/?wt.mc_id=helloworlds-github-jopapa)
