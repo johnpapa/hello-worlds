@@ -175,6 +175,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "noelmace",
+      "name": "Noël Macé",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7578400?v=4",
+      "profile": "https://noelmace.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
