@@ -184,6 +184,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "zaceno",
+      "name": "Zacharias Enochsson",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2061445?v=4",
+      "profile": "http://zaceno.github.io",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
