@@ -33,7 +33,7 @@ Projects are listed alphabetically
 | Alpine.js  |                                              | `/`               | alpine     |
 | Angular    | `npm run build -- --prod`                    | `dist/hello`      | angular    |
 | Aurelia    | `npm run build`                              | `dist`            | aurelia    |
-| Backbone.js|                                              | `/`               | Backbone.js|
+| Backbone.js|                                              | `/`               | backbone.js|
 | Eleventy   | `npm run build`                              | `_site`           | eleventy   |
 | Ember      | `npm run build`                              | `dist`            | ember      |
 | Flutter    | Install Flutter SDK then `flutter build web` | `build/web`       | flutter    |

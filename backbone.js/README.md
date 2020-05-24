@@ -1,11 +1,7 @@
-# hello
+# Project
 
-## Project setup
-```
-npm install
-```
+Hello World app for Backbone.js
 
-### Serve the index.html
-```
-npm run start
-```
+## Getting Started
+
+Open the index.html to see Hello World in action
