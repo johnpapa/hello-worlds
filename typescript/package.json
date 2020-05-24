@@ -1,0 +1,16 @@
+{
+  "name": "hello-typescript",
+  "version": "1.0.0",
+  "description": "Hello World app in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "Bertrand Tchoumkeu",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.9.3"
+  }
+}
