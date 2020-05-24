@@ -1,9 +1,9 @@
-import { LitElement, html } from 'lit-element';
+import { LitElement, html } from "lit-element";
 
 export class HelloWorld extends LitElement {
   static get properties() {
     return {
-      value: { type: String }
+      value: { type: String },
     };
   }
 
@@ -14,8 +14,6 @@ export class HelloWorld extends LitElement {
   }
 
   render() {
-    return html`
-      <div>Hello ${this.value}</div>
-    `;
+    return html` <div>Hello ${this.value}</div> `;
   }
 }
