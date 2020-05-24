@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "tags": [
+    {
+      "name": "hello-world",
+      "description": "An Hello-World application using lit-element and open-wc",
+      "properties": [
+        {
+          "name": "value",
+          "type": "String",
+          "description": "who to say hello to",
+          "default": "World"
+        }
+      ],
+      "events": [],
+      "slots": [],
+      "cssProperties": []
+    }
+  ]
+}
