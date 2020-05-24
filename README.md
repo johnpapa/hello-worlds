@@ -1,9 +1,7 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-blue.svg?style=flat-square)](#contributors)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-19-blue.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -28,21 +26,22 @@ See existing samples for the idea ...
 
 [![Deploy to Azure button](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?feature.customportal=false&WT.mc_id=build2020_swa-github-jopapa#create/Microsoft.StaticApp)
 
-## Projects
-
 Projects are listed alphabetically
 
 | Project    | Build steps                                  | Serve this folder | Project    |
 | ---------- | -------------------------------------------- | ----------------- | ---------- |
+| Alpine.js  |                                              | `/`               | alpine     |
 | Angular    | `npm run build -- --prod`                    | `dist/hello`      | angular    |
 | Aurelia    | `npm run build`                              | `dist`            | aurelia    |
 | Eleventy   | `npm run build`                              | `_site`           | eleventy   |
 | Ember      | `npm run build`                              | `dist`            | ember      |
 | Flutter    | Install Flutter SDK then `flutter build web` | `build/web`       | flutter    |
 | Gatsby     | `npm run build`                              | `public`          | gatsby     |
+| Gridsome   | `npm run build`                              | `dist`            | gridsome   |
 | Html       |                                              | `/`               | html       |
 | Hugo       | `npm run build`                              | `public`          | hugo       |
 | JavaScript |                                              | `/`               | javascript |
+| jQuery     | (uses CDN)                                   | `/`               | jquery     |
 | KnockoutJS | `npm run build`                              | `dist`            | knockoutjs |
 | Lit-element| `npm run build`                              | `dist`            | lit-element|
 | Meteor     | `npm run build`                              | `bundle`          | meteor     |
@@ -54,6 +53,8 @@ Projects are listed alphabetically
 | Svelte     | `npm run build`                              | `public`          | svelte     |
 | ThreeJS    | `cd threejs`                                 | `/`               | threejs    |
 | Vue        | `npm run build`                              | `dist`            | vue        |
+
+> > > > > > > master
 
 ## Resources
 
@@ -98,12 +99,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/btchoum"><img src="https://avatars0.githubusercontent.com/u/9422996?v=4" width="100px;" alt=""/><br /><sub><b>Bertrand Tchoumkeu</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=btchoum" title="Code">💻</a></td>
     <td align="center"><a href="https://medium.com/@webmaxru"><img src="https://avatars1.githubusercontent.com/u/1560278?v=4" width="100px;" alt=""/><br /><sub><b>Maxim Salnikov</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=webmaxru" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/rgolea"><img src="https://avatars0.githubusercontent.com/u/8843202?v=4" width="100px;" alt=""/><br /><sub><b>Rares Golea</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=rgolea" title="Code">💻</a></td>
+    <td align="center"><a href="https://swank.dev/"><img src="https://avatars0.githubusercontent.com/u/18602728?v=4" width="100px;" alt=""/><br /><sub><b>Brian Swank</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=bswank" title="Code">💻</a></td>
+    <td align="center"><a href="https://codewithhugo.com"><img src="https://avatars1.githubusercontent.com/u/6459679?v=4" width="100px;" alt=""/><br /><sub><b>Hugo</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=hugodf" title="Code">💻</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
