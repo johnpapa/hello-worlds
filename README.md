@@ -55,8 +55,6 @@ Projects are listed alphabetically
 | Vue        | `npm run build`                              | `dist`            | vue        |
 | Vuepress   | `npm run build`                              | `dist`            | vuepress   |
 
-> > > > > > > master
-
 ## Resources
 
 - [Azure Free Trial](https://azure.microsoft.com/en-us/free/?wt.mc_id=helloworlds-github-jopapa)
