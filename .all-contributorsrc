@@ -130,6 +130,60 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "btchoum",
+      "name": "Bertrand Tchoumkeu",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/9422996?v=4",
+      "profile": "https://github.com/btchoum",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "webmaxru",
+      "name": "Maxim Salnikov",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1560278?v=4",
+      "profile": "https://medium.com/@webmaxru",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "rgolea",
+      "name": "Rares Golea",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/8843202?v=4",
+      "profile": "https://github.com/rgolea",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "bswank",
+      "name": "Brian Swank",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/18602728?v=4",
+      "profile": "https://swank.dev/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "hugodf",
+      "name": "Hugo",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6459679?v=4",
+      "profile": "https://codewithhugo.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "noelmace",
+      "name": "Noël Macé",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7578400?v=4",
+      "profile": "https://noelmace.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
