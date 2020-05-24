@@ -28,8 +28,6 @@ See existing samples for the idea ...
 
 [![Deploy to Azure button](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?feature.customportal=false&WT.mc_id=build2020_swa-github-jopapa#create/Microsoft.StaticApp)
 
-## Projects
-
 Projects are listed alphabetically
 
 | Project    | Build steps                                  | Serve this folder | Project    |
@@ -43,6 +41,7 @@ Projects are listed alphabetically
 | Html       |                                              | `/`               | html       |
 | Hugo       | `npm run build`                              | `public`          | hugo       |
 | JavaScript |                                              | `/`               | javascript |
+| jQuery     | (uses CDN)                                   | `/`               | jquery     |
 | KnockoutJS | `npm run build`                              | `dist`            | knockoutjs |
 | Meteor     | `npm run build`                              | `bundle`          | meteor     |
 | Next.js    | `npm run build`                              | `out`             | nextjs     |
