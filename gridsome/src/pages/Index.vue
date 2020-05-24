@@ -7,12 +7,12 @@
 <script>
 export default {
   metaInfo: {
-    title: "Hello, world!"
+    title: 'Hello, world!',
   },
   data() {
     return {
-      value: "World"
+      value: 'World',
     };
-  }
+  },
 };
 </script>
