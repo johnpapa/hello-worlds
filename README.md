@@ -43,6 +43,7 @@ Projects are listed alphabetically
 | JavaScript |                                              | `/`               | javascript |
 | jQuery     | (uses CDN)                                   | `/`               | jquery     |
 | KnockoutJS | `npm run build`                              | `dist`            | knockoutjs |
+| Lit-element| `npm run build`                              | `dist`            | lit-element|
 | Meteor     | `npm run build`                              | `bundle`          | meteor     |
 | Next.js    | `npm run build`                              | `out`             | nextjs     |
 | Nuxt.js    | `npm run generate`                           | `dist`            | nuxtjs     |
