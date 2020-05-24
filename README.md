@@ -1,7 +1,7 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-17-blue.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-18-blue.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -96,6 +96,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/btchoum"><img src="https://avatars0.githubusercontent.com/u/9422996?v=4" width="100px;" alt=""/><br /><sub><b>Bertrand Tchoumkeu</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=btchoum" title="Code">💻</a></td>
     <td align="center"><a href="https://medium.com/@webmaxru"><img src="https://avatars1.githubusercontent.com/u/1560278?v=4" width="100px;" alt=""/><br /><sub><b>Maxim Salnikov</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=webmaxru" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/rgolea"><img src="https://avatars0.githubusercontent.com/u/8843202?v=4" width="100px;" alt=""/><br /><sub><b>Rares Golea</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=rgolea" title="Code">💻</a></td>
+    <td align="center"><a href="https://swank.dev/"><img src="https://avatars0.githubusercontent.com/u/18602728?v=4" width="100px;" alt=""/><br /><sub><b>Brian Swank</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=bswank" title="Code">💻</a></td>
   </tr>
 </table>
 
