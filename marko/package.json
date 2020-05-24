@@ -3,16 +3,17 @@
   "version": "1.0.0",
   "description": "hello word marko app",
   "scripts": {
-    "dev": "marko-serve ./src",
-    "build": "marko-build ./src",
-    "start": "NODE_ENV=production node ./build/index.js"
+    "build": "NODE_ENV=production webpack --progress",
+    "start": "webpack-dev-server --content-base public/"
   },
   "private": true,
   "dependencies": {
-    "marko": "^4.21.8"
+    "marko": "^4.21.8",
+    "webpack-dev-server": "^3.11.0"
   },
   "devDependencies": {
-    "@marko/build": "^1.4.0",
-    "@marko/serve": "^1.4.0"
+    "@marko/webpack": "^6.0.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
   }
 }

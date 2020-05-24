@@ -1,6 +1,6 @@
 # `Marko`
 
-A minimal hello world example in Marko. This project was created with [Marko's CLI](https://github.com/marko-js/cli).
+A minimal hello world example in Marko.
 
 ## Requirement
 
@@ -19,22 +19,13 @@ In the project directory, you can run:
 
 To install all dependencies
 
-### `npm run dev`
-
-To start the development server
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### `npm test`
-
-To launches the test case
-
 ### `npm run build`
 
 To build a production-ready on build directory
 
 ### `npm start`
 
-To run the production server
+To run the production server. Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
 ## Learn More
 
