@@ -1,7 +1,9 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-18-blue.svg?style=flat-square)](#contributors)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -30,6 +32,7 @@ Projects are listed alphabetically
 
 | Project    | Build steps                                  | Serve this folder | Project    |
 | ---------- | -------------------------------------------- | ----------------- | ---------- |
+| Alpine.js  |                                              | `/`               | alpine     |
 | Angular    | `npm run build -- --prod`                    | `dist/hello`      | angular    |
 | Aurelia    | `npm run build`                              | `dist`            | aurelia    |
 | Eleventy   | `npm run build`                              | `_site`           | eleventy   |
@@ -51,6 +54,8 @@ Projects are listed alphabetically
 | Svelte     | `npm run build`                              | `public`          | svelte     |
 | ThreeJS    | `cd threejs`                                 | `/`               | threejs    |
 | Vue        | `npm run build`                              | `dist`            | vue        |
+
+> > > > > > > master
 
 ## Resources
 
@@ -102,6 +107,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
