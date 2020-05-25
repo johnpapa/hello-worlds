@@ -4,7 +4,7 @@
   "description": "Hello World app in TypeScript",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc && node ./copy-index.js",
     "start": "tsc --watch"
   },
   "keywords": [],
