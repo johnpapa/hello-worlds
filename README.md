@@ -54,7 +54,6 @@ Projects are listed alphabetically
 | Stencil     | `npm run build`                              | `www`             | stencil     |
 | Svelte      | `npm run build`                              | `public`          | svelte      |
 | ThreeJS     | `cd threejs`                                 | `/`               | threejs     |
-| TypeScript  | `npm run build`                              | `dist`            | typescript  |
 | Vue         | `npm run build`                              | `dist`            | vue         |
 | Vuepress    | `npm run build`                              | `dist`            | vuepress    |
 
