@@ -47,6 +47,7 @@ Projects are listed alphabetically
 | Meteor     | `npm run build`                              | `bundle`          | meteor     |
 | Next.js    | `npm run build`                              | `out`             | nextjs     |
 | Nuxt.js    | `npm run generate`                           | `dist`            | nuxtjs     |
+| Preact     | `npm run build`                              | `build`           | preact     |
 | React      | `npm run build`                              | `build`           | react      |
 | Scully     | `npm run build -- --prod`                    | `dist/hello`      | scully     |
 | Stencil    | `npm run build`                              | `www`             | stencil    |
