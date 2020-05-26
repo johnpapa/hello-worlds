@@ -19,4 +19,5 @@ By making a PR you are agreeing to that contributing a hello world project allow
 - [ ] must be in the folder named `<tech-name>`
 - [ ] add build steps and which folder to serve in the README.md
 - [ ] verify that the app once built can be served from whatever folder the built assets are placed in
+- [ ] verify that running `npx http-server <your-folder-to-serve>` works
 - [ ] verify that a Pull Request doesnt already exist. If it does, feel free to contribue to it.
