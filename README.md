@@ -1,7 +1,9 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-22-blue.svg?style=flat-square)](#contributors)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -20,6 +22,7 @@ Assumptions:
 - [ ] add yourself using the all-contributors bot `@allcontributors please add @<your-github-account> for code`
 - [ ] add build steps and which folder to serve in the README.md
 - [ ] verify that the app once built can be served from whatever folder the built assets are placed in
+- [ ] verify that running `npx http-server <your-folder-to-serve>` works
 - [ ] verify that a Pull Request doesnt already exist. If it does, feel free to contribue to it.
 
 See existing samples for the idea ...
@@ -33,13 +36,14 @@ Projects are listed alphabetically
 | Alpine.js   |                                              | `/`               | alpine      |
 | Angular     | `npm run build -- --prod`                    | `dist/hello`      | angular     |
 | Aurelia     | `npm run build`                              | `dist`            | aurelia     |
-| Backbone.js |                                              | `/`               | backbone.js |
+| Backbone.js |                                              | `/`               | backbone    |
 | Ember       | `npm run build`                              | `dist`            | ember       |
 | Flutter     | Install Flutter SDK then `flutter build web` | `build/web`       | flutter     |
 | Gatsby      | `npm run build`                              | `public`          | gatsby      |
 | Gridsome    | `npm run build`                              | `dist`            | gridsome    |
 | Html        |                                              | `/`               | html        |
 | Hugo        | `npm run build`                              | `public`          | hugo        |
+| Hyperapp    | (uses CDN)                                   | `/`               | hyperapp    |
 | JavaScript  |                                              | `/`               | javascript  |
 | jQuery      | (uses CDN)                                   | `/`               | jquery      |
 | KnockoutJS  | `npm run build`                              | `dist`            | knockoutjs  |
@@ -113,6 +117,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
