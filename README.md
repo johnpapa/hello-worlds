@@ -1,7 +1,7 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-blue.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-24-blue.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -20,6 +20,7 @@ Assumptions:
 - [ ] add yourself using the all-contributors bot `@allcontributors please add @<your-github-account> for code`
 - [ ] add build steps and which folder to serve in the README.md
 - [ ] verify that the app once built can be served from whatever folder the built assets are placed in
+- [ ] verify that running `npx http-server <your-folder-to-serve>` works
 - [ ] verify that a Pull Request doesnt already exist. If it does, feel free to contribue to it.
 
 See existing samples for the idea ...
@@ -28,34 +29,37 @@ See existing samples for the idea ...
 
 Projects are listed alphabetically
 
-| Project    | Build steps                                  | Serve this folder | Project    |
-| ---------- | -------------------------------------------- | ----------------- | ---------- |
-| Alpine.js  |                                              | `/`               | alpine     |
-| Angular    | `npm run build -- --prod`                    | `dist/hello`      | angular    |
-| Aurelia    | `npm run build`                              | `dist`            | aurelia    |
-| Eleventy   | `npm run build`                              | `_site`           | eleventy   |
-| Ember      | `npm run build`                              | `dist`            | ember      |
-| Flutter    | Install Flutter SDK then `flutter build web` | `build/web`       | flutter    |
-| Gatsby     | `npm run build`                              | `public`          | gatsby     |
-| Gridsome   | `npm run build`                              | `dist`            | gridsome   |
-| Html       |                                              | `/`               | html       |
-| Hugo       | `npm run build`                              | `public`          | hugo       |
-| JavaScript |                                              | `/`               | javascript |
-| jQuery     | (uses CDN)                                   | `/`               | jquery     |
-| KnockoutJS | `npm run build`                              | `dist`            | knockoutjs |
-| Lit-element| `npm run build`                              | `dist`            | lit-element|
-| Meteor     | `npm run build`                              | `bundle`          | meteor     |
-| Next.js    | `npm run build`                              | `out`             | nextjs     |
-| Nuxt.js    | `npm run generate`                           | `dist`            | nuxtjs     |
-| Preact     | `npm run build`                              | `build`           | preact     |
-| React      | `npm run build`                              | `build`           | react      |
-| Scully     | `npm run build -- --prod`                    | `dist/hello`      | scully     |
-| Stencil    | `npm run build`                              | `www`             | stencil    |
-| Svelte     | `npm run build`                              | `public`          | svelte     |
-| ThreeJS    | `cd threejs`                                 | `/`               | threejs    |
-| TypeScript | `npm run build`                              | `dist`            | typescript |
-| Vue        | `npm run build`                              | `dist`            | vue        |
-| Vuepress   | `npm run build`                              | `dist`            | vuepress   |
+| Project     | Build steps                                  | Serve this folder | Project     |
+| ----------- | -------------------------------------------- | ----------------- | ----------- |
+| Alpine.js   |                                              | `/`               | alpine      |
+| Angular     | `npm run build -- --prod`                    | `dist/hello`      | angular     |
+| Aurelia     | `npm run build`                              | `dist`            | aurelia     |
+| Backbone.js |                                              | `/`               | backbone    |
+| Ember       | `npm run build`                              | `dist`            | ember       |
+| Flutter     | Install Flutter SDK then `flutter build web` | `build/web`       | flutter     |
+| Gatsby      | `npm run build`                              | `public`          | gatsby      |
+| Gridsome    | `npm run build`                              | `dist`            | gridsome    |
+| Html        |                                              | `/`               | html        |
+| Hugo        | `npm run build`                              | `public`          | hugo        |
+| Hyperapp    | (uses CDN)                                   | `/`               | hyperapp    |
+| JavaScript  |                                              | `/`               | javascript  |
+| jQuery      | (uses CDN)                                   | `/`               | jquery      |
+| KnockoutJS  | `npm run build`                              | `dist`            | knockoutjs  |
+| Lit-element | `npm run build`                              | `dist`            | lit-element |
+| Marko       | `npm run build`                              | `public`          | marko       |
+| Meteor      | `npm run build`                              | `bundle`          | meteor      |
+| Mitrhil     | `npm run build`                              | `dist`            | mithril     |
+| Next.js     | `npm run build`                              | `out`             | nextjs      |
+| Nuxt.js     | `npm run generate`                           | `dist`            | nuxtjs      |
+| Preact      | `npm run build`                              | `build`           | preact      |
+| React       | `npm run build`                              | `build`           | react       |
+| Scully      | `npm run build -- --prod`                    | `dist/hello`      | scully      |
+| Stencil     | `npm run build`                              | `www`             | stencil     |
+| Svelte      | `npm run build`                              | `public`          | svelte      |
+| ThreeJS     | `cd threejs`                                 | `/`               | threejs     |
+| TypeScript  | `npm run build`                              | `dist`            | typescript  |
+| Vue         | `npm run build`                              | `dist`            | vue         |
+| Vuepress    | `npm run build`                              | `dist`            | vuepress    |
 
 ## Resources
 
@@ -104,6 +108,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://swank.dev/"><img src="https://avatars0.githubusercontent.com/u/18602728?v=4" width="100px;" alt=""/><br /><sub><b>Brian Swank</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=bswank" title="Code">💻</a></td>
     <td align="center"><a href="https://codewithhugo.com"><img src="https://avatars1.githubusercontent.com/u/6459679?v=4" width="100px;" alt=""/><br /><sub><b>Hugo</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=hugodf" title="Code">💻</a></td>
     <td align="center"><a href="https://noelmace.com"><img src="https://avatars3.githubusercontent.com/u/7578400?v=4" width="100px;" alt=""/><br /><sub><b>Noël Macé</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=noelmace" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/wolfhoundjesse"><img src="https://avatars1.githubusercontent.com/u/13468509?v=4" width="100px;" alt=""/><br /><sub><b>Jesse M. Holmes</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=wolfhoundjesse" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/carlosroec"><img src="https://avatars0.githubusercontent.com/u/1981518?v=4" width="100px;" alt=""/><br /><sub><b>Carlos G. Rodriguez</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=carlosroec" title="Code">💻</a></td>
+    <td align="center"><a href="http://zaceno.github.io"><img src="https://avatars3.githubusercontent.com/u/2061445?v=4" width="100px;" alt=""/><br /><sub><b>Zacharias Enochsson</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=zaceno" title="Code">💻</a></td>
+    <td align="center"><a href="https://moemoe89.github.io"><img src="https://avatars0.githubusercontent.com/u/7221739?v=4" width="100px;" alt=""/><br /><sub><b>Bismo Baruno</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=moemoe89" title="Code">💻</a></td>
   </tr>
 </table>
 
