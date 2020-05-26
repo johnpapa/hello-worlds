@@ -1,7 +1,9 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-blue.svg?style=flat-square)](#contributors)
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-blue.svg?style=flat-square)](#contributors)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -28,33 +30,34 @@ See existing samples for the idea ...
 
 Projects are listed alphabetically
 
-| Project    | Build steps                                  | Serve this folder | Project    |
-| ---------- | -------------------------------------------- | ----------------- | ---------- |
-| Alpine.js  |                                              | `/`               | alpine     |
-| Angular    | `npm run build -- --prod`                    | `dist/hello`      | angular    |
-| Aurelia    | `npm run build`                              | `dist`            | aurelia    |
-| Backbone.js|                                              | `/`               | backbone.js|
-| Eleventy   | `npm run build`                              | `_site`           | eleventy   |
-| Ember      | `npm run build`                              | `dist`            | ember      |
-| Flutter    | Install Flutter SDK then `flutter build web` | `build/web`       | flutter    |
-| Gatsby     | `npm run build`                              | `public`          | gatsby     |
-| Gridsome   | `npm run build`                              | `dist`            | gridsome   |
-| Html       |                                              | `/`               | html       |
-| Hugo       | `npm run build`                              | `public`          | hugo       |
-| JavaScript |                                              | `/`               | javascript |
-| jQuery     | (uses CDN)                                   | `/`               | jquery     |
-| KnockoutJS | `npm run build`                              | `dist`            | knockoutjs |
-| Lit-element| `npm run build`                              | `dist`            | lit-element|
-| Meteor     | `npm run build`                              | `bundle`          | meteor     |
-| Next.js    | `npm run build`                              | `out`             | nextjs     |
-| Nuxt.js    | `npm run generate`                           | `dist`            | nuxtjs     |
-| React      | `npm run build`                              | `build`           | react      |
-| Scully     | `npm run build -- --prod`                    | `dist/hello`      | scully     |
-| Stencil    | `npm run build`                              | `www`             | stencil    |
-| Svelte     | `npm run build`                              | `public`          | svelte     |
-| ThreeJS    | `cd threejs`                                 | `/`               | threejs    |
-| Vue        | `npm run build`                              | `dist`            | vue        |
-| Vuepress   | `npm run build`                              | `dist`            | vuepress   |
+| Project     | Build steps                                  | Serve this folder | Project     |
+| ----------- | -------------------------------------------- | ----------------- | ----------- |
+| Alpine.js   |                                              | `/`               | alpine      |
+| Angular     | `npm run build -- --prod`                    | `dist/hello`      | angular     |
+| Aurelia     | `npm run build`                              | `dist`            | aurelia     |
+| Backbone.js |                                              | `/`               | backbone.js |
+| Ember       | `npm run build`                              | `dist`            | ember       |
+| Flutter     | Install Flutter SDK then `flutter build web` | `build/web`       | flutter     |
+| Gatsby      | `npm run build`                              | `public`          | gatsby      |
+| Gridsome    | `npm run build`                              | `dist`            | gridsome    |
+| Html        |                                              | `/`               | html        |
+| Hugo        | `npm run build`                              | `public`          | hugo        |
+| JavaScript  |                                              | `/`               | javascript  |
+| jQuery      | (uses CDN)                                   | `/`               | jquery      |
+| KnockoutJS  | `npm run build`                              | `dist`            | knockoutjs  |
+| Lit-element | `npm run build`                              | `dist`            | lit-element |
+| Meteor      | `npm run build`                              | `bundle`          | meteor      |
+| Mitrhil     | `npm run build`                              | `dist`            | mithril     |
+| Next.js     | `npm run build`                              | `out`             | nextjs      |
+| Nuxt.js     | `npm run generate`                           | `dist`            | nuxtjs      |
+| Preact      | `npm run build`                              | `build`           | preact      |
+| React       | `npm run build`                              | `build`           | react       |
+| Scully      | `npm run build -- --prod`                    | `dist/hello`      | scully      |
+| Stencil     | `npm run build`                              | `www`             | stencil     |
+| Svelte      | `npm run build`                              | `public`          | svelte      |
+| ThreeJS     | `cd threejs`                                 | `/`               | threejs     |
+| Vue         | `npm run build`                              | `dist`            | vue         |
+| Vuepress    | `npm run build`                              | `dist`            | vuepress    |
 
 ## Resources
 
@@ -103,11 +106,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://swank.dev/"><img src="https://avatars0.githubusercontent.com/u/18602728?v=4" width="100px;" alt=""/><br /><sub><b>Brian Swank</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=bswank" title="Code">💻</a></td>
     <td align="center"><a href="https://codewithhugo.com"><img src="https://avatars1.githubusercontent.com/u/6459679?v=4" width="100px;" alt=""/><br /><sub><b>Hugo</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=hugodf" title="Code">💻</a></td>
     <td align="center"><a href="https://noelmace.com"><img src="https://avatars3.githubusercontent.com/u/7578400?v=4" width="100px;" alt=""/><br /><sub><b>Noël Macé</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=noelmace" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/wolfhoundjesse"><img src="https://avatars1.githubusercontent.com/u/13468509?v=4" width="100px;" alt=""/><br /><sub><b>Jesse M. Holmes</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=wolfhoundjesse" title="Code">💻</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
