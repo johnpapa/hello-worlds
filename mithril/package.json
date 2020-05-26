@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.js"
+    "build": "parcel build src/index.js",
+    "postbuild": "ncp src/index.html dist/index.html"
   },
   "dependencies": {
     "mithril": "^2.0.4"
   },
   "devDependencies": {
+    "ncp": "^2.0.0",
     "parcel-bundler": "^1.12.4"
   }
 }

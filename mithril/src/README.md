@@ -1,20 +1,20 @@
 # Hello, Mitrhil!
-This is a project for [mithril](https://mithril.js.org/) apps.
+A minimal hello world example in [mithril](https://mithril.js.org/).
 
-## Get Started
-Install the dependencies
+## Installation
 ```
-cd mithril
+git clone https://github.com/johnpapa/hello-worlds
+cd hello-worlds/mithril
 npm install
 ```
-Start the application
+## Running / Development
 ```
 npm start
 ```
-Navigate to localhost:1234 to see your app running.
+Visit your app at http://localhost:1234.
 
 ## Building for production
-Create an optimized version of the app.
+Create an optimized version of the app to be served from a `dist` folder.
 ```
 npm run build
 ```
