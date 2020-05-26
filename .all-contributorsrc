@@ -148,6 +148,69 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "rgolea",
+      "name": "Rares Golea",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/8843202?v=4",
+      "profile": "https://github.com/rgolea",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "bswank",
+      "name": "Brian Swank",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/18602728?v=4",
+      "profile": "https://swank.dev/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "hugodf",
+      "name": "Hugo",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6459679?v=4",
+      "profile": "https://codewithhugo.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "noelmace",
+      "name": "Noël Macé",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7578400?v=4",
+      "profile": "https://noelmace.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "wolfhoundjesse",
+      "name": "Jesse M. Holmes",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13468509?v=4",
+      "profile": "https://github.com/wolfhoundjesse",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "carlosroec",
+      "name": "Carlos G. Rodriguez",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1981518?v=4",
+      "profile": "https://github.com/carlosroec",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "zaceno",
+      "name": "Zacharias Enochsson",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2061445?v=4",
+      "profile": "http://zaceno.github.io",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
