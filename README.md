@@ -53,6 +53,7 @@ Projects are listed alphabetically
 | Mitrhil     | `npm run build`                              | `dist`            | mithril     |
 | Next.js     | `npm run build`                              | `out`             | nextjs      |
 | Nuxt.js     | `npm run generate`                           | `dist`            | nuxtjs      |
+| Polymer     | `npm run build`                              | `build/default`   | polymer     |
 | Preact      | `npm run build`                              | `build`           | preact      |
 | React       | `npm run build`                              | `build`           | react       |
 | Scully      | `npm run build -- --prod`                    | `dist/hello`      | scully      |
@@ -62,6 +63,7 @@ Projects are listed alphabetically
 | TypeScript  | `npm run build`                              | `dist`            | typescript  |
 | Vue         | `npm run build`                              | `dist`            | vue         |
 | Vuepress    | `npm run build`                              | `dist`            | vuepress    |
+
 
 ## Resources
 
