@@ -29,10 +29,12 @@ See existing samples for the idea ...
 
 Projects are listed alphabetically
 
+
 | Project     | Build steps                                  | Serve this folder | Project     |
 | ----------- | -------------------------------------------- | ----------------- | ----------- |
 | Alpine.js   |                                              | `/`               | alpine      |
 | Angular     | `npm run build -- --prod`                    | `dist/hello`      | angular     |
+| Angular Universal| `npm run prerender`                     | `dist/hello/browser`| angular-universal|
 | Aurelia     | `npm run build`                              | `dist`            | aurelia     |
 | Backbone.js |                                              | `/`               | backbone    |
 | Ember       | `npm run build`                              | `dist`            | ember       |
