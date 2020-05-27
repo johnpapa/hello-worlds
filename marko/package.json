@@ -1,0 +1,19 @@
+{
+  "name": "hello-marko",
+  "version": "1.0.0",
+  "description": "hello word marko app",
+  "scripts": {
+    "build": "NODE_ENV=production webpack --progress",
+    "start": "webpack-dev-server --content-base public/"
+  },
+  "private": true,
+  "dependencies": {
+    "marko": "^4.21.8",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "devDependencies": {
+    "@marko/webpack": "^6.0.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}

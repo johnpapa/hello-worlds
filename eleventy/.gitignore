@@ -1,0 +1,4 @@
+# /.gitignore
+
+_site
+node_modules

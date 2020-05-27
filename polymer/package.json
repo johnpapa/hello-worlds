@@ -1,6 +1,9 @@
 {
   "name": "polymer-app",
   "description": "Polymer App Hello World",
+  "scripts": {
+    "build": "polymer build"
+  },
   "dependencies": {
     "@polymer/polymer": "^3.0.0"
   },
@@ -9,6 +12,7 @@
     "@webcomponents/webcomponentsjs": "^2.0.0",
     "chai": "^4.2.0",
     "mocha": "^6.1.4",
+    "polymer-cli": "^1.9.11",
     "wct-mocha": "^1.0.1"
   }
 }
