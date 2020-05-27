@@ -3,12 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "description": "A minimal hello world example in Ember",
-  "repository": "",
   "license": "MIT",
-  "author": "",
-  "directories": {
-    "doc": "doc"
-  },
   "scripts": {
     "build": "ember build --environment=production",
     "lint": "npm-run-all --aggregate-output --continue-on-error --parallel lint:*",
@@ -31,7 +26,6 @@
     "ember-cli-inject-live-reload": "^2.0.2",
     "ember-cli-sri": "^2.1.1",
     "ember-cli-uglify": "^3.0.0",
-    "ember-data": "~3.18.0",
     "ember-export-application-global": "^2.0.1",
     "ember-fetch": "^8.0.1",
     "ember-load-initializers": "^2.1.1",
@@ -43,8 +37,7 @@
     "eslint-plugin-ember": "^8.4.0",
     "eslint-plugin-node": "^11.1.0",
     "loader.js": "^4.7.0",
-    "npm-run-all": "^4.1.5",
-    "qunit-dom": "^1.2.0"
+    "npm-run-all": "^4.1.5"
   },
   "engines": {
     "node": "10.* || >= 12"
