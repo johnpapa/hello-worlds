@@ -1,0 +1,7 @@
+{
+  "name": "polymer-app",
+  "short_name": "polymer-app",
+  "description": "Polymer App Hello World",
+  "start_url": "/",
+  "display": "standalone"
+}
