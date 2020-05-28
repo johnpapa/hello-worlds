@@ -1,9 +1,7 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
 [![All Contributors](https://img.shields.io/badge/all_contributors-24-blue.svg?style=flat-square)](#contributors)
-
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -30,6 +28,7 @@ See existing samples for the idea ...
 [![Deploy to Azure button](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?feature.customportal=false&WT.mc_id=build2020_swa-github-jopapa#create/Microsoft.StaticApp)
 
 Projects are listed alphabetically
+
 
 | Project     | Build steps                                  | Serve this folder | Folder      |
 | ----------- | -------------------------------------------- | ----------------- | ----------- |
@@ -65,6 +64,7 @@ Projects are listed alphabetically
 | TypeScript  | `npm run build`                              | `dist`            | typescript  |
 | Vue         | `npm run build`                              | `dist`            | vue         |
 | Vuepress    | `npm run build`                              | `dist`            | vuepress    |
+
 
 ## Resources
 
@@ -124,7 +124,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
