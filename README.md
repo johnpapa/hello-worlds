@@ -33,6 +33,7 @@ Projects are listed alphabetically
 | Project     | Build steps                                  | Serve this folder | Folder      |
 | ----------- | -------------------------------------------- | ----------------- | ----------- |
 | Alpine.js   |                                              | `/`               | alpine      |
+| Angular.js |                                               | `/`               | angularjs   |
 | Angular     | `npm run build -- --prod`                    | `dist/hello`      | angular     |
 | Angular Universal| `npm run prerender`                     | `dist/hello/browser`| angular-universal|
 | Aurelia     | `npm run build`                              | `dist`            | aurelia     |
@@ -64,7 +65,6 @@ Projects are listed alphabetically
 | TypeScript  | `npm run build`                              | `dist`            | typescript  |
 | Vue         | `npm run build`                              | `dist`            | vue         |
 | Vuepress    | `npm run build`                              | `dist`            | vuepress    |
-
 
 ## Resources
 
@@ -124,6 +124,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
