@@ -30,7 +30,7 @@ See existing samples for the idea ...
 Projects are listed alphabetically
 
 
-| Project     | Build steps                                  | Serve this folder | Project     |
+| Project     | Build steps                                  | Serve this folder | Folder      |
 | ----------- | -------------------------------------------- | ----------------- | ----------- |
 | Alpine.js   |                                              | `/`               | alpine      |
 | Angular     | `npm run build -- --prod`                    | `dist/hello`      | angular     |
