@@ -40,6 +40,7 @@ Projects are listed alphabetically
 | Ember       | `npm run build`                              | `dist`            | ember       |
 | Flutter     | Install Flutter SDK then `flutter build web` | `build/web`       | flutter     |
 | Gatsby      | `npm run build`                              | `public`          | gatsby      |
+| Glimmer     | `npm run build`                              | `dist`            | glimmer     |
 | Gridsome    | `npm run build`                              | `dist`            | gridsome    |
 | Html        |                                              | `/`               | html        |
 | Hugo        | `npm run build`                              | `public`          | hugo        |
