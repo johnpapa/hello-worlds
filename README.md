@@ -1,7 +1,7 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-24-blue.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-25-blue.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -119,12 +119,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/carlosroec"><img src="https://avatars0.githubusercontent.com/u/1981518?v=4" width="100px;" alt=""/><br /><sub><b>Carlos G. Rodriguez</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=carlosroec" title="Code">💻</a></td>
     <td align="center"><a href="http://zaceno.github.io"><img src="https://avatars3.githubusercontent.com/u/2061445?v=4" width="100px;" alt=""/><br /><sub><b>Zacharias Enochsson</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=zaceno" title="Code">💻</a></td>
     <td align="center"><a href="https://moemoe89.github.io"><img src="https://avatars0.githubusercontent.com/u/7221739?v=4" width="100px;" alt=""/><br /><sub><b>Bismo Baruno</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=moemoe89" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Filini"><img src="https://avatars1.githubusercontent.com/u/10072578?v=4" width="100px;" alt=""/><br /><sub><b>Filippo Gualandi</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=Filini" title="Code">💻</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

@@ -220,6 +220,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Filini",
+      "name": "Filippo Gualandi",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/10072578?v=4",
+      "profile": "https://github.com/Filini",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
