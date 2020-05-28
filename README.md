@@ -31,40 +31,40 @@ See existing samples for the idea ...
 
 Projects are listed alphabetically
 
-| Project           | Build steps                                  | Serve this folder    | Project           |
-| ----------------- | -------------------------------------------- | -------------------- | ----------------- |
-| Alpine.js         |                                              | `/`                  | alpine            |
-| Angular           | `npm run build -- --prod`                    | `dist/hello`         | angular           |
-| Angular Universal | `npm run prerender`                          | `dist/hello/browser` | angular-universal |
-| Aurelia           | `npm run build`                              | `dist`               | aurelia           |
-| Backbone.js       |                                              | `/`                  | backbone          |
-| Ember             | `npm run build`                              | `dist`               | ember             |
-| Flutter           | Install Flutter SDK then `flutter build web` | `build/web`          | flutter           |
-| Gatsby            | `npm run build`                              | `public`             | gatsby            |
-| Glimmer           | `npm run build`                              | `dist`               | glimmer           |
-| Gridsome          | `npm run build`                              | `dist`               | gridsome          |
-| Html              |                                              | `/`                  | html              |
-| Hugo              | `npm run build`                              | `public`             | hugo              |
-| Hyperapp          | (uses CDN)                                   | `/`                  | hyperapp          |
-| JavaScript        |                                              | `/`                  | javascript        |
-| jQuery            | (uses CDN)                                   | `/`                  | jquery            |
-| KnockoutJS        | `npm run build`                              | `dist`               | knockoutjs        |
-| Lit-element       | `npm run build`                              | `dist`               | lit-element       |
-| Marko             | `npm run build`                              | `public`             | marko             |
-| Meteor            | `npm run build`                              | `bundle`             | meteor            |
-| Mitrhil           | `npm run build`                              | `dist`               | mithril           |
-| Next.js           | `npm run build`                              | `out`                | nextjs            |
-| Nuxt.js           | `npm run generate`                           | `dist`               | nuxtjs            |
-| Polymer           | `npm run build`                              | `build/default`      | polymer           |
-| Preact            | `npm run build`                              | `build`              | preact            |
-| React             | `npm run build`                              | `build`              | react             |
-| Scully            | `npm run build -- --prod`                    | `dist/hello`         | scully            |
-| Stencil           | `npm run build`                              | `www`                | stencil           |
-| Svelte            | `npm run build`                              | `public`             | svelte            |
-| ThreeJS           | `cd threejs`                                 | `/`                  | threejs           |
-| TypeScript        | `npm run build`                              | `dist`               | typescript        |
-| Vue               | `npm run build`                              | `dist`               | vue               |
-| Vuepress          | `npm run build`                              | `dist`               | vuepress          |
+| Project     | Build steps                                  | Serve this folder | Folder      |
+| ----------- | -------------------------------------------- | ----------------- | ----------- |
+| Alpine.js   |                                              | `/`               | alpine      |
+| Angular     | `npm run build -- --prod`                    | `dist/hello`      | angular     |
+| Angular Universal| `npm run prerender`                     | `dist/hello/browser`| angular-universal|
+| Aurelia     | `npm run build`                              | `dist`            | aurelia     |
+| Backbone.js |                                              | `/`               | backbone    |
+| Ember       | `npm run build`                              | `dist`            | ember       |
+| Flutter     | Install Flutter SDK then `flutter build web` | `build/web`       | flutter     |
+| Gatsby      | `npm run build`                              | `public`          | gatsby      |
+| Glimmer     | `npm run build`                              | `dist`            | glimmer     |
+| Gridsome    | `npm run build`                              | `dist`            | gridsome    |
+| Html        |                                              | `/`               | html        |
+| Hugo        | `npm run build`                              | `public`          | hugo        |
+| Hyperapp    | (uses CDN)                                   | `/`               | hyperapp    |
+| JavaScript  |                                              | `/`               | javascript  |
+| jQuery      | (uses CDN)                                   | `/`               | jquery      |
+| KnockoutJS  | `npm run build`                              | `dist`            | knockoutjs  |
+| Lit-element | `npm run build`                              | `dist`            | lit-element |
+| Marko       | `npm run build`                              | `public`          | marko       |
+| Meteor      | `npm run build`                              | `bundle`          | meteor      |
+| Mitrhil     | `npm run build`                              | `dist`            | mithril     |
+| Next.js     | `npm run build`                              | `out`             | nextjs      |
+| Nuxt.js     | `npm run generate`                           | `dist`            | nuxtjs      |
+| Polymer     | `npm run build`                              | `build/default`   | polymer     |
+| Preact      | `npm run build`                              | `build`           | preact      |
+| React       | `npm run build`                              | `build`           | react       |
+| Scully      | `npm run build -- --prod`                    | `dist/hello`      | scully      |
+| Stencil     | `npm run build`                              | `www`             | stencil     |
+| Svelte      | `npm run build`                              | `public`          | svelte      |
+| ThreeJS     | `cd threejs`                                 | `/`               | threejs     |
+| TypeScript  | `npm run build`                              | `dist`            | typescript  |
+| Vue         | `npm run build`                              | `dist`            | vue         |
+| Vuepress    | `npm run build`                              | `dist`            | vuepress    |
 
 ## Resources
 
