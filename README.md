@@ -29,41 +29,43 @@ See existing samples for the idea ...
 
 Projects are listed alphabetically.
 
-| Project     | Build steps                                  | Serve this folder | Folder      |
-| ----------- | -------------------------------------------- | ----------------- | ----------- |
-| [Alpine.js](https://github.com/alpinejs/alpine/)| | `/`               | alpine      |
-| [Angular.js](https://angularjs.org/) | | `/`               | angularjs   |
-| [Angular](https://angular.io/)     | `npm run build -- --prod`                    | `dist/hello`      | angular     |
-| [Angular Universal](https://angular.io/guide/universal) | `npm run prerender`                     | `dist/hello/browser`| angular-universal|
-| [Aurelia](https://aurelia.io/)     | `npm run build`                              | `dist`            | aurelia     |
-| [Backbone.js](https://backbonejs.org/) |                                              | `/`               | backbone    |
-| [Ember](https://emberjs.com/)       | `npm run build`                              | `dist`            | ember       |
-| [Flutter](https://flutter.dev/)     | Install Flutter SDK then `flutter build web` | `build/web`       | flutter     |
-| [Gatsby](https://www.gatsbyjs.org/)      | `npm run build`                              | `public`          | gatsby      |
-| [Glimmer](https://glimmerjs.com/)     | `npm run build`                              | `dist`            | glimmer     |
-| [Gridsome](https://gridsome.org/)    | `npm run build`                              | `dist`            | gridsome    |
-| [HTML](https://developer.mozilla.org/docs/Web/HTML)        |                                              | `/`               | html        |
-| [Hugo](https://gohugo.io/)        | `npm run build`                              | `public`          | hugo        |
-| [Hyperapp](https://hyperapp.dev/)    | (uses CDN)                                   | `/`               | hyperapp    |
-| [JavaScript](https://developer.mozilla.org/docs/Web/javascript)  |                                              | `/`               | javascript  |
-| [jQuery](https://jquery.com/)      | (uses CDN)                                   | `/`               | jquery      |
-| [KnockoutJS](https://knockoutjs.com/)  | `npm run build`                              | `dist`            | knockoutjs  |
-| [LitElement](https://lit-element.polymer-project.org/) | `npm run build`                              | `dist`            | lit-element |
-| [Marko](https://markojs.com/)       | `npm run build`                              | `public`          | marko       |
-| [Meteor](https://www.meteor.com/)      | `npm run build`                              | `bundle`          | meteor      |
-| [Mithril](https://mithril.js.org/)     | `npm run build`                              | `dist`            | mithril     |
-| [Next.js](https://nextjs.org/)     | `npm run build`                              | `out`             | nextjs      |
-| [Nuxt.js](https://nuxtjs.org/)     | `npm run generate`                           | `dist`            | nuxtjs      |
-| [Polymer](https://www.polymer-project.org/)     | `npm run build`                              | `build/default`   | polymer     |
-| [Preact](https://preactjs.com/)      | `npm run build`                              | `build`           | preact      |
-| [React](https://reactjs.org/)       | `npm run build`                              | `build`           | react       |
-| [Scully](https://github.com/scullyio/scully)      | `npm run build -- --prod`                    | `dist/hello`      | scully      |
-| [Stencil](https://stenciljs.com/)     | `npm run build`                              | `www`             | stencil     |
-| [Svelte](https://svelte.dev/)       | `npm run build`                              | `public`          | svelte      |
-| [Three.js](https://threejs.org/)     |                                  | `/`               | threejs     |
-| [TypeScript](https://www.typescriptlang.org/)   | `npm run build`                              | `dist`            | typescript  |
-| [Vue](http://vuejs.com/)               | `npm run build`                              | `dist`            | vue         |
-| [VuePress](https://vuepress.vuejs.org/)    | `npm run build`                              | `dist`            | vuepress    |
+| Project                                                            | Build steps                                   | Serve this folder    | Folder            |
+| ------------------------------------------------------------------ | --------------------------------------------- | -------------------- | ----------------- |
+| [Alpine.js](https://github.com/alpinejs/alpine/)                   |                                               | `/`                  | alpine            |
+| [Angular.js](https://angularjs.org/)                               |                                               | `/`                  | angularjs         |
+| [Angular](https://angular.io/)                                     | `npm run build -- --prod`                     | `dist/hello`         | angular           |
+| [Angular Universal](https://angular.io/guide/universal)            | `npm run prerender`                           | `dist/hello/browser` | angular-universal |
+| [Aurelia](https://aurelia.io/)                                     | `npm run build`                               | `dist`               | aurelia           |
+| [Backbone.js](https://backbonejs.org/)                             |                                               | `/`                  | backbone          |
+| [Ember](https://emberjs.com/)                                      | `npm run build`                               | `dist`               | ember             |
+| [Flutter](https://flutter.dev/)                                    | Install Flutter SDK then `flutter build web`  | `build/web`          | flutter           |
+| [Gatsby](https://www.gatsbyjs.org/)                                | `npm run build`                               | `public`             | gatsby            |
+| [Glimmer](https://glimmerjs.com/)                                  | `npm run build`                               | `dist`               | glimmer           |
+| [Gridsome](https://gridsome.org/)                                  | `npm run build`                               | `dist`               | gridsome          |
+| [HTML](https://developer.mozilla.org/docs/Web/HTML)                |                                               | `/`                  | html              |
+| [Hugo](https://gohugo.io/)                                         | `npm run build`                               | `public`             | hugo              |
+| [Hyperapp](https://hyperapp.dev/)                                  | (uses CDN)                                    | `/`                  | hyperapp          |
+| [Ionic Angular](https://ionicframework.com/docs/angular/overview)  | `npm run build -- --prod`                     | `www`                | ionic-angular     |
+| [Ionic React](https://ionicframework.com/docs/react)               | `npm run build`                               | `build`              | ionic-react       |
+| [JavaScript](https://developer.mozilla.org/docs/Web/javascript)    |                                               | `/`                  | javascript        |
+| [jQuery](https://jquery.com/)                                      | (uses CDN)                                    | `/`                  | jquery            |
+| [KnockoutJS](https://knockoutjs.com/)                              | `npm run build`                               | `dist`               | knockoutjs        |
+| [LitElement](https://lit-element.polymer-project.org/)             | `npm run build`                               | `dist`               | lit-element       |
+| [Marko](https://markojs.com/)                                      | `npm run build`                               | `public`             | marko             |
+| [Meteor](https://www.meteor.com/)                                  | `npm run build`                               | `bundle`             | meteor            |
+| [Mithril](https://mithril.js.org/)                                 | `npm run build`                               | `dist`               | mithril           |
+| [Next.js](https://nextjs.org/)                                     | `npm run build`                               | `out`                | nextjs            |
+| [Nuxt.js](https://nuxtjs.org/)                                     | `npm run generate`                            | `dist`               | nuxtjs            |
+| [Polymer](https://www.polymer-project.org/)                        | `npm run build`                               | `build/default`      | polymer           |
+| [Preact](https://preactjs.com/)                                    | `npm run build`                               | `build`              | preact            |
+| [React](https://reactjs.org/)                                      | `npm run build`                               | `build`              | react             |
+| [Scully](https://github.com/scullyio/scully)                       | `npm run build -- --prod`                     | `dist/hello`         | scully            |
+| [Stencil](https://stenciljs.com/)                                  | `npm run build`                               | `www`                | stencil           |
+| [Svelte](https://svelte.dev/)                                      | `npm run build`                               | `public`             | svelte            |
+| [Three.js](https://threejs.org/)                                   |                                               | `/`                  | threejs           |
+| [TypeScript](https://www.typescriptlang.org/)                      | `npm run build`                               | `dist`               | typescript        |
+| [Vue](http://vuejs.com/)                                           | `npm run build`                               | `dist`               | vue               |
+| [VuePress](https://vuepress.vuejs.org/)                            | `npm run build`                               | `dist`               | vuepress          |
 
 ## Resources
 
