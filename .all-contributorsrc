@@ -229,6 +229,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "mhartington",
+      "name": "Mike Hartington",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2835826?v=4",
+      "profile": "https://twitter.com/mhartington",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
