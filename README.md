@@ -1,7 +1,7 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-26-blue.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-27-blue.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -122,6 +122,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://moemoe89.github.io"><img src="https://avatars0.githubusercontent.com/u/7221739?v=4" width="100px;" alt=""/><br /><sub><b>Bismo Baruno</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=moemoe89" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Filini"><img src="https://avatars1.githubusercontent.com/u/10072578?v=4" width="100px;" alt=""/><br /><sub><b>Filippo Gualandi</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=Filini" title="Code">💻</a></td>
     <td align="center"><a href="https://twitter.com/mhartington"><img src="https://avatars3.githubusercontent.com/u/2835826?v=4" width="100px;" alt=""/><br /><sub><b>Mike Hartington</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=mhartington" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/aelgasser"><img src="https://avatars2.githubusercontent.com/u/3692722?v=4" width="100px;" alt=""/><br /><sub><b>aelgasser</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=aelgasser" title="Code">💻</a></td>
   </tr>
 </table>
 
