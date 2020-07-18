@@ -14,9 +14,6 @@
     "statusBar.background": "#6b25d7",
     "statusBarItem.hoverBackground": "#884ee1",
     "statusBar.foreground": "#e7e7e7",
-    "panel.border": "#884ee1",
-    "sideBar.border": "#884ee1",
-    "editorGroup.border": "#884ee1",
     "statusBar.border": "#6b25d7",
     "titleBar.border": "#6b25d7"
   },
