@@ -41,7 +41,7 @@ Projects are listed alphabetically.
 | [Backbone.js](https://backbonejs.org/)                            |                                              | `/`                  | backbone          |
 | [Elm](https://elm-lang.org/)                                      | `npm run build`                              | `public`             | elm               |
 | [Ember](https://emberjs.com/)                                     | `npm run build`                              | `dist`               | ember             |
-| [Eleventy](https://www.11ty.dev/)                                 | `npm run build`                              | `_site_`             | eleventy          |
+| [Eleventy](https://www.11ty.dev/)                                 | `npm run build`                              | `_site`             | eleventy          |
 | [Flutter](https://flutter.dev/)                                   | Install Flutter SDK then `flutter build web` | `build/web`          | flutter           |
 | [Gatsby](https://www.gatsbyjs.org/)                               | `npm run build`                              | `public`             | gatsby            |
 | [Glimmer](https://glimmerjs.com/)                                 | `npm run build`                              | `dist`               | glimmer           |
