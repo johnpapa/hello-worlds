@@ -37,6 +37,7 @@ Projects are listed alphabetically.
 | [Angular Universal](https://angular.io/guide/universal)            | `npm run prerender`                           | `dist/hello/browser` | angular-universal |
 | [Aurelia](https://aurelia.io/)                                     | `npm run build`                               | `dist`               | aurelia           |
 | [Backbone.js](https://backbonejs.org/)                             |                                               | `/`                  | backbone          |
+| [Blazor](https://blazor.net/)                                      | Install .NET SDK then `dotnet build`          | `/`                  | blazor            |
 | [Elm](https://elm-lang.org/)                                       | `npm run build`                               | `public`             | elm               |
 | [Ember](https://emberjs.com/)                                      | `npm run build`                               | `dist`               | ember             |
 | [Flutter](https://flutter.dev/)                                    | Install Flutter SDK then `flutter build web`  | `build/web`          | flutter           |
