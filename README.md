@@ -70,6 +70,7 @@ Projects are listed alphabetically.
 | [TypeScript](https://www.typescriptlang.org/)                     | `npm run build`                              | `dist`               | typescript        |
 | [Vue](http://vuejs.com/)                                          | `npm run build`                              | `dist`               | vue               |
 | [VuePress](https://vuepress.vuejs.org/)                           | `npm run build`                              | `dist`               | vuepress          |
+| [Riot](https://riot.js.org/)                                      | `npm run build`                              | `dist`               | riot              |
 
 ## Resources
 
