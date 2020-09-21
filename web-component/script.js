@@ -21,10 +21,19 @@ class HelloWorld extends HTMLElement {
     let style = document.createElement('style');
 
     style.innerHTML = `
-            p {
-                color: var(--red);
-            }
-        `;
+        div {
+          border: 2px solid var(--red);
+          padding: 5px;
+        }
+
+        p {
+            color: var(--red);
+        }
+
+        span.my-green {
+          color: var(--my-green);
+        }
+    `;
 
     return style;
   }
@@ -36,7 +45,7 @@ class HelloWorld extends HTMLElement {
 
     let content = document.createElement('p');
 
-    content.innerHTML = `Hello ${name}`;
+    content.innerHTML = `Hello <span class="my-green">${name}</span>`;
 
     template.appendChild(this.style());
 
