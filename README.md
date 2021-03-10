@@ -1,7 +1,7 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-28-blue.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-29-blue.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -127,6 +127,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://twitter.com/mhartington"><img src="https://avatars3.githubusercontent.com/u/2835826?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mike Hartington</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=mhartington" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/aelgasser"><img src="https://avatars2.githubusercontent.com/u/3692722?v=4?s=100" width="100px;" alt=""/><br /><sub><b>aelgasser</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=aelgasser" title="Code">💻</a></td>
     <td align="center"><a href="http://www.sarbull.ro"><img src="https://avatars.githubusercontent.com/u/1864112?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cezar Sîrbu</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=sarbull" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Nicoss54"><img src="https://avatars.githubusercontent.com/u/24563545?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nicoss54</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=Nicoss54" title="Code">💻</a></td>
   </tr>
 </table>
 
