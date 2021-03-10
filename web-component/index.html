@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Web Component - Hello World</title>
+
+    <style>
+      :root {
+        --red: #FF0000;
+        --blue: #0000FF;
+        --my-green: #00a500;
+      }
+    </style>
+  </head>
+
+  <body>
+    <hello-world id="my-component"></hello-world>
+
+    <script src="script.js"></script>
+
+    <script>
+      setInterval(() => {
+        let helloWorld = document.getElementById('my-component');
+
+        if (helloWorld.getAttribute('name') === 'sarbull') {
+          helloWorld.setAttribute('name', 'World');
+        } else {
+          helloWorld.setAttribute('name', 'sarbull');
+        }
+      }, 3000);
+    </script>
+  </body>
+</html>
