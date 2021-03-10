@@ -63,6 +63,7 @@ Projects are listed alphabetically.
 | [Polymer](https://www.polymer-project.org/)                        | `npm run build`                               | `build/default`      | polymer           |
 | [Preact](https://preactjs.com/)                                    | `npm run build`                               | `build`              | preact            |
 | [React](https://reactjs.org/)                                      | `npm run build`                               | `build`              | react             |
+| [Riot](https://riot.js.org/)                                       | `npm run build`                               | `dist`               | riot              |
 | [Scully](https://github.com/scullyio/scully)                       | `npm run build -- --prod`                     | `dist/hello`         | scully            |
 | [Stencil](https://stenciljs.com/)                                  | `npm run build`                               | `www`                | stencil           |
 | [Svelte](https://svelte.dev/)                                      | `npm run build`                               | `public`             | svelte            |
