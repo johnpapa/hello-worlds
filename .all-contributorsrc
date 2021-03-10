@@ -247,6 +247,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "sarbull",
+      "name": "Cezar Sîrbu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1864112?v=4",
+      "profile": "http://www.sarbull.ro",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
