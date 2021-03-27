@@ -265,6 +265,15 @@
       "contributions": [
         "code"
       ]
+    },
+        {
+      "login": "Yonet",
+      "name": "Ayşegül Yönet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3523671?v=4",
+      "profile": "https://github.com/Yonet",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

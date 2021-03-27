@@ -36,6 +36,7 @@ Projects are listed alphabetically.
 | [Angular](https://angular.io/)                                     | `npm run build -- --prod`                     | `dist/hello`         | angular           |
 | [Angular Universal](https://angular.io/guide/universal)            | `npm run prerender`                           | `dist/hello/browser` | angular-universal |
 | [Aurelia](https://aurelia.io/)                                     | `npm run build`                               | `dist`               | aurelia           |
+| [Babylon.js](https://www.babylonjs.com/)                           |                                               | `/`                  | babylonjs         |
 | [Backbone.js](https://backbonejs.org/)                             |                                               | `/`                  | backbone          |
 | [Blazor](https://blazor.net/)                                      | Install .NET SDK then `dotnet build`          | `/`                  | blazor            |
 | [Elm](https://elm-lang.org/)                                       | `npm run build`                               | `public`             | elm               |
@@ -130,6 +131,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Nicoss54"><img src="https://avatars.githubusercontent.com/u/24563545?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nicoss54</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=Nicoss54" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Yonet"><img src="https://avatars.githubusercontent.com/u/3523671?v=4" width="100px;" alt=""/><br /><sub><b>Yonet</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=Yonet" title="Code">💻</a></td>
   </tr>
 </table>
 
