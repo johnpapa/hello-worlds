@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: #080808;
+  font-size: 2em;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+body h1 {
+  font-size: 3em;
+}
+body p {
+  color: #dfdfdf;
+  margin-top: 1em;
+}
+body a {
+  text-decoration: none;
+  color: white;
+  border-bottom: 2px solid #0648ff;
+  transition: 200ms;
+}
+body a:hover {
+  background: #001d6b;
+}
