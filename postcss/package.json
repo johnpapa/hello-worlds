@@ -1,0 +1,20 @@
+{
+  "name": "postcss-sass",
+  "version": "1.0.0",
+  "description": "Hello World App With PostCSS And Sass",
+  "scripts": {
+    "watch": "postcss --watch styles/*.css -o public/styles/build.css",
+    "build": "postcss styles/*.css -o public/styles/build.css",
+    "serve": "serve public/"
+  },
+  "main": "index.js",
+  "author": "Nouman Rahman",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "cssnano": "^5.0.12",
+    "postcss": "^8.4.4",
+    "postcss-cli": "^9.1.0",
+    "serve": "^13.0.2"
+  }
+}
