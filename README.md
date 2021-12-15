@@ -64,6 +64,7 @@ Projects are listed alphabetically.
 | [React](https://reactjs.org/)                                      | `npm run build`                               | `build`              | react             |
 | [Riot](https://riot.js.org/)                                       | `npm run build`                               | `dist`               | riot              |
 | [Scully](https://github.com/scullyio/scully)                       | `npm run build -- --prod`                     | `dist/hello`         | scully            |
+| [SolidJS](https://www.solidjs.com/)                                | `npm run build`                               | `dist`               | solidjs           |
 | [Stencil](https://stenciljs.com/)                                  | `npm run build`                               | `www`                | stencil           |
 | [Svelte](https://svelte.dev/)                                      | `npm run build`                               | `public`             | svelte            |
 | [Three.js](https://threejs.org/)                                   |                                               | `/`                  | threejs           |
