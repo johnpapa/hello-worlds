@@ -266,11 +266,20 @@
         "code"
       ]
     },
-        {
+    {
       "login": "Yonet",
       "name": "Ayşegül Yönet",
       "avatar_url": "https://avatars.githubusercontent.com/u/3523671?v=4",
       "profile": "https://github.com/Yonet",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "rdinakely",
+      "name": "Dina Andrandraina",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24489455?v=4",
+      "profile": "https://github.com/rdinakely",
       "contributions": [
         "code"
       ]

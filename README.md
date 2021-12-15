@@ -1,7 +1,7 @@
 # hello-worlds
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-blue.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-31-blue.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
@@ -131,7 +131,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Nicoss54"><img src="https://avatars.githubusercontent.com/u/24563545?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nicoss54</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=Nicoss54" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Yonet"><img src="https://avatars.githubusercontent.com/u/3523671?v=4" width="100px;" alt=""/><br /><sub><b>Yonet</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=Yonet" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Yonet"><img src="https://avatars.githubusercontent.com/u/3523671?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ayşegül Yönet</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=Yonet" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/rdinakely"><img src="https://avatars.githubusercontent.com/u/24489455?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dina Andrandraina</b></sub></a><br /><a href="https://github.com/johnpapa/hello-worlds/commits?author=rdinakely" title="Code">💻</a></td>
   </tr>
 </table>
 
