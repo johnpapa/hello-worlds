@@ -1,0 +1,23 @@
+# Copilot Cloud Agent — Setup Steps
+# Configures the environment for the Copilot coding agent.
+# This is a multi-app collection with no centralized build system.
+# Each subfolder is independent — the agent should cd into the relevant project.
+
+name: "Copilot Setup Steps"
+
+on: workflow_dispatch
+
+jobs:
+  copilot-setup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # No root-level install — each project has its own dependencies.
+      # The agent should run `npm install` in the specific project folder it's working on.
