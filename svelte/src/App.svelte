@@ -1,5 +1,5 @@
 <script>
-	export let value = 'World';
+let value = $state('World');
 </script>
 
 <div>Hello {value}</div>

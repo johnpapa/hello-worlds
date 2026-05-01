@@ -2,8 +2,8 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  template: `<div>Hello {{value}}</div>`,
+  template: `<div>Hello {{ value }}</div>`,
 })
-export class AppComponent {
+export class App {
   value = 'World';
 }
