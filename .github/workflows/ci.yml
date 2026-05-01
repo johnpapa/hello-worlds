@@ -1,0 +1,54 @@
+name: CI
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate Repository Structure
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check all project folders are in README
+        run: |
+          echo "Checking that all project folders are referenced in README.md..."
+          errors=0
+          for dir in */; do
+            dir_name="${dir%/}"
+            # Skip hidden dirs and common non-project files
+            case "$dir_name" in
+              .*|node_modules|docs) continue ;;
+            esac
+            if ! grep -q "$dir_name" README.md; then
+              echo "::warning::Project folder '$dir_name' is not listed in README.md"
+              errors=$((errors + 1))
+            fi
+          done
+          if [ $errors -gt 0 ]; then
+            echo "::warning::$errors project folder(s) not found in README.md"
+          fi
+          echo "Validation complete."
+
+      - name: Verify package.json files are valid JSON
+        run: |
+          echo "Validating package.json files..."
+          errors=0
+          for pkg in */package.json; do
+            if ! python3 -c "import json; json.load(open('$pkg'))" 2>/dev/null; then
+              echo "::error::Invalid JSON in $pkg"
+              errors=$((errors + 1))
+            fi
+          done
+          if [ $errors -gt 0 ]; then
+            echo "::error::$errors invalid package.json file(s) found"
+            exit 1
+          fi
+          echo "All package.json files are valid."
