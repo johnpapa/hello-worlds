@@ -3,6 +3,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-29-blue.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+[![AI-Ready](https://img.shields.io/badge/AI--Ready-AGENTS.md-blueviolet?logo=githubcopilot)](AGENTS.md)
 
 Hello World apps for JavaScript/HTML/CSS libraries/frameworks!
 
