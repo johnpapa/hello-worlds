@@ -9,17 +9,17 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/common": "^21.2.0",
-    "@angular/compiler": "^21.2.0",
-    "@angular/core": "^21.2.0",
-    "@angular/platform-browser": "^21.2.0",
+    "@angular/common": "^22.0.1",
+    "@angular/compiler": "^22.0.1",
+    "@angular/core": "^22.0.1",
+    "@angular/platform-browser": "^22.0.1",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0"
   },
   "devDependencies": {
-    "@angular/build": "^21.2.9",
+    "@angular/build": "^22.0.1",
     "@angular/cli": "^21.2.9",
-    "@angular/compiler-cli": "^21.2.0",
+    "@angular/compiler-cli": "^22.0.1",
     "typescript": "~5.9.2"
   }
 }
