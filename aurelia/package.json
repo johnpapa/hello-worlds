@@ -44,7 +44,7 @@
     "webpack-bundle-analyzer": "^3.6.0",
     "tree-kill": "^1.2.1",
     "aurelia-loader-nodejs": "^1.1.0",
-    "aurelia-pal-nodejs": "^2.0.0"
+    "aurelia-pal-nodejs": "^3.0.0-rc.2"
   },
   "scripts": {
     "build": "webpack --env.production --extractCss",
